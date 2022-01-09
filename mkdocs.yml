@@ -1,0 +1,106 @@
+## Deploy command
+## mkdocs gh-deploy --remote-branch master
+
+site_name: "Takuto Maeda | 前田 拓人"
+site_author: "Takuto Maeda"
+
+site_url: "https://tktmyd.github.io/"
+
+copyright: "Copyright &copy Takuto Maeda. All Rights Reserved"
+
+docs_dir: "src"
+
+site_dir: "docs"
+
+use_directory_urls: true
+
+theme:
+  language: en
+  name: material
+  palette:
+    scheme: default
+    primary: teal
+    accent: pink
+  custom_dir:
+    overrides
+  features:
+    - navigation.sections
+    - navigation.tabs
+    - navigation.expand
+
+extra_css:
+  - "https://fonts.googleapis.com/earlyaccess/notosansjp.css"
+  - "https://fonts.googleapis.com/css?family=Noto+Serif+JP"
+  - "https://fonts.googleapis.com/css?family=Montserrat"
+  - "https://fonts.googleapis.com/css?family=Open+Sans:600,800"
+  - "https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css"
+  - "css/custom.css"
+
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+      lang:
+        - en
+        - ja
+
+extra:
+  font:
+    #text: 'Noto Sans JP'
+    #code: 'Consolas'
+
+markdown_extensions:
+  - markdown.extensions.def_list
+  - markdown.extensions.admonition
+  - markdown.extensions.footnotes
+  - markdown.extensions.toc:
+      permalink: true
+  - markdown.extensions.codehilite:
+      linenums: true
+      use_pygments: true
+  - pymdownx.arithmatex:
+      preview: false
+  - pymdownx.highlight:
+      linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+      options:
+        custom_icons:
+          - docs/icons
+  - fontawesome_markdown
+  - attr_list
+  - markdown.extensions.def_list
+
+extra_javascript:
+  - mathjax-config.js
+  - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+nav:
+  - Home:
+      - _:  index.md
+  - CV:
+      - English: cv-e.md
+      - 日本語版: cv-j.md
+  - Publications:
+      - _ : pubs.md
+  - Talks: 
+      - First authored talks : talks-firstauthor.md
+      - Coauthored talks : talks-coauthor.md
+      - Outreach activities : talks-outreach.md
+  - Open Codes: 
+      - Open Codes : opencodes.md
+  - Lectures: 
+      - 講義: lectures.md
+  - Seismo Info: 
+      - 地震（学）の情報源: seismo-info.md
+  - Movies: 
+      - 2021-02-13 Off Fukushima: movies/2021-02-13.md
+  - Projects: 
+      - https://www.st.hirosaki-u.ac.jp/~tktmyd/dw/doku.php/ja/projects
+#  - Lectures:
+#      - _: lectures.md
+  - Labo:
+      - https://www.st.hirosaki-u.ac.jp/~seismolab/dw/doku.php
