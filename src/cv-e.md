@@ -55,6 +55,7 @@ Although these thesis have been written in Japanese, they are both published in 
 * 2013 EPS Award (for Maeda et al., 2011a; 2014-05-02)
 * 2015 Morita Memorial Award, Tohoku University (2015-10-30)
 * 2019 Research Paper Award of the Seismological Society of Japan (for Maeda et al., 2010; 2020-10-29)
+* 2022 Research Paper Award of the Japan Society of Engineering Geology (for Doi et al., 2020; 2022-06-17)
 
 ## Grants
 

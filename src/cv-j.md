@@ -57,6 +57,7 @@
 * 2013 EPS Award (for Maeda et al., 2011; 2014-05-02) [EPS](https://earth-planets-space.springeropen.com/eps-yr-award) [ERI](http://www.eri.u-tokyo.ac.jp/2014/10/30/%e5%89%8d%e7%94%b0%e6%8b%93%e4%ba%ba%e5%8a%a9%e6%95%99%e3%81%8c2013%e5%b9%b4eps%e8%b3%9e%e3%82%92%e5%8f%97%e8%b3%9e/)
 * 東北大泉萩会 第11回森田記念賞 (2015-10-30) [東北大](http://www.senshu.phys.tohoku.ac.jp/prize.html#p11-1)
 * 2019年度日本地震学会論文賞 (Maeda et al., 2017; 2020-10-29) [SSJ](https://www.zisin.jp/news/20200501_awards.html)
+*  日本応用地質学会令和4年（2022）論文賞（土井・他, 2020; 2022-06-17）[HU](https://www.st.hirosaki-u.ac.jp/news/awarded/jusho/220617.html)
 
 ## 研究費獲得履歴
 
