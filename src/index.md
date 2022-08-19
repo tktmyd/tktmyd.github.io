@@ -28,6 +28,7 @@ I am studying wave propagation problems in seismology. I am particularly interes
 
 ## Recent news | 最近のできごと
 
+
 ### 2022-06
 - 共著論文（[土井・他, 2020](https://doi.org/10.5110/jjseg.61.245)）が日本応用地質学会の論文賞を[受賞](https://www.st.hirosaki-u.ac.jp/news/awarded/jusho/220617.html)しました．
 
