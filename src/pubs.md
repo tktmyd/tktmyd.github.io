@@ -10,7 +10,7 @@ Springer.
 ## Peer-Reviewed Articles 
 
 [69] 
-Onodera, K., Kawamura, T., Tanaka, S., Ishihara, Y., & __Maeda, T.__ (2021). Numerical Simulation of Lunar Seismic Wave Propagation: Investigation of Subsurface Scattering Properties Near Apollo 12 Landing Site. _Journal of Geophysical Research: Planets_, _126_(_3_). doi:[10.1029/2020je006406](https://doi.org/10.1029/2020je006406).
+Onodera, K., Kawamura, T., Tanaka, S., Ishihara, Y., & __Maeda, T.__ (2021). Numerical simulation of Lunar seismic wave propagation: Investigation of subsurface scattering properties near Apollo 12 landing site. _Journal of Geophysical Research: Planets_, _126_(_3_). doi:[10.1029/2020je006406](https://doi.org/10.1029/2020je006406).
 
 
 [68] 
