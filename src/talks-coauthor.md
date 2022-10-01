@@ -16,7 +16,7 @@ Tsunami data assimilation in source region: Separating coseismic deformation and
 日本地球惑星科学連合2022年大会, 
 2022-05-25.
 
-増永仁・____前田拓人__・高野智也, 
+増永仁・__前田拓人__・高野智也, 
 CMT解における波形適合度の比較, 
 日本地球惑星科学連合2022年大会, 
 2022-05-24.
