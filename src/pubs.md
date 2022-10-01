@@ -7,10 +7,22 @@ Seismic wave propagation and scattering in the heterogeneous earth, second editi
 Springer.    
 [__(Publisher)__](https://www.springer.com/gp/book/9783642230288)
 
+## Preprints
+
+
+Onodera, K., Kawamura, T., Tanaka, S., Ishihara, Y. & __Maeda, T.__ (2022). 
+Quantitative evaluation of the lunar seismic scattering and comparison between the Earth, Mars, and the Moon, 
+submitted to _Journal of Geophysical Research: Planets_, available at _ESSOAr_, doi:[10.1002/essoar.10512321.1](https://doi.org/10.1002/essoar.10512321.1). 
+
 ## Peer-Reviewed Articles 
 
+[70]
+Takeo, A., Nishida, K., Aoyama, H., Ishise, M., Kai, T., Kurihara, R., __Maeda, T.__, Mizutani, Y., Nakashima, Y., Nagahara, S., Wang, X., Ye, L., Akuhara, T., and Aoki, Y. (2022). 
+S-wave modelling of the Showa-Shinzan lava dome in Usu Volcano, Northern Japan, from seismic observations, _Geophysical Journal International_, _230_(_3_), 1662-1678. doi:[10.1093/gji/ggac111](https://doi.org/10.1093/gji/ggac111).
+
+
 [69] 
-Onodera, K., Kawamura, T., Tanaka, S., Ishihara, Y., & __Maeda, T.__ (2021). Numerical simulation of Lunar seismic wave propagation: Investigation of subsurface scattering properties near Apollo 12 landing site. _Journal of Geophysical Research: Planets_, _126_(_3_). doi:[10.1029/2020je006406](https://doi.org/10.1029/2020je006406).
+Onodera, K., Kawamura, T., Tanaka, S., Ishihara, Y., & __Maeda, T.__ (2021). Numerical simulation of Lunar seismic wave propagation: Investigation of subsurface scattering properties near Apollo 12 landing site. _Journal of Geophysical Research: Planets_, _126_(_3_). e2020JE006406. doi:[10.1029/2020je006406](https://doi.org/10.1029/2020je006406).
 
 
 [68] 
@@ -26,6 +38,7 @@ Shiina, T., __Maeda, T.__, Kano, M., Kato, A., & Hirata, N. (2021). An optimum 2
 doi:[10.2208/kaigan.76.2_I_259](https://doi.org/10.2208/kaigan.76.2_I_259)
 
 [65] 
+<span class="award">AWARDED</span> 
 土井一生・__前田拓人__・釜井俊孝・王功輝 (2020), 
 地震波形記録による斜面崩壊の発生場所と発生形態の推定－2017年九州北部豪雨災害・日田市小野地区の斜面崩壊を例として－, 応用地質, _61_(_5_), 245-254, 
 doi:[10.5110/jjseg.61.245](https://doi.org/10.5110/jjseg.61.245)
@@ -51,7 +64,7 @@ Data-assimilation-based early forecasting of long-period ground motions for larg
 _Journal of Geophysical Research: Solid Earth_, _125_, e2019JB019047. 
 doi:[10.1029/2019JB019047](https://doi.org/10.1029/2019JB019047). 
 <br/>
-[__(editor's highlight at EOS)__](https://eos.org/editor-highlights/real-time-gaward-motion-estimation-for-large-earthquakes)
+[__(editor's highlight at EOS)__](https://eos.org/editor-highlights/real-time-ground-motion-estimation-for-large-earthquakes)
 
 [60] 
 Baba, S., Takeo, A., Obara, K., Matsuzawa, T., & __Maeda, T.__ (2020). 
@@ -88,7 +101,7 @@ doi:[10.1029/2018JB016833](https://doi.org/10.1029/2018JB016833).
 
 [55] 
 Furumura, T., __Maeda, T.__, & Oba, A. (2019). 
-Early forecast of long-period gaward motions via data assimilation of observed gaward motions and wave propagation simulations, 
+Early forecast of long-period ground motions via data assimilation of observed ground motions and wave propagation simulations, 
 _Geophysical Research Letters_, _46_, 138--147. 
 doi:[10.1029/2018GL081163](https://doi.org/10.1029/2018GL081163).
 
@@ -157,7 +170,7 @@ doi:[10.1038/s41598-017-03048-6](https://doi.org/10.1038/s41598-017-03048-6).
 
 [44] 
 Todoriki, M., Furumura, T., & __Maeda, T.__ (2017). 
-Effects of seawater on elongated duration of gaward motion as well as variation in its amplitude for offshore earthquakes, 
+Effects of seawater on elongated duration of ground motion as well as variation in its amplitude for offshore earthquakes, 
 _Geophysical Journal International_, _208_, 226--233, 
 doi:[10.1093/gji/ggw388](https://doi.org/10.1093/gji/ggw388). 
 
@@ -208,7 +221,7 @@ _Geophysical Research Letters_, _43_, 2562--2567, doi:[10.1002/2016GL067780](htt
 
 [37] 
 Noguchi, S, __Maeda, T.__, and Furumura, T. (2016). 
-Ocean-influenced Rayleigh waves from outer-rise earthquakes and their effects on durations of long-period gaward motion, 
+Ocean-influenced Rayleigh waves from outer-rise earthquakes and their effects on durations of long-period ground motion, 
 _Geophysical Journal International_, _205_, 1099--1107, 
 doi:[10.1093/gji/ggw074](https://doi.org/10.1093/gji/ggw074). 
 
@@ -335,7 +348,7 @@ __(2013 EPS Award)__
 
 [17] 
 Furumura, T., Takemura, S., Noguchi, S., Takemoto, T., __Maeda, T.__, Iwai, K., & Padhy, S. (2011). 
-Strong gaward motions from the 2011 Off the Pacific Coast of Tohoku, Japan (_Mw_=9.0) earthquake obtained from a dense nation-wide seismic network, _Landslides_, _8_, 333--338, 
+Strong ground motions from the 2011 Off the Pacific Coast of Tohoku, Japan (_Mw_=9.0) earthquake obtained from a dense nation-wide seismic network, _Landslides_, _8_, 333--338, 
 doi:[10.1007/s10346-011-0279-3](http://doi.org/10.1007/s10346-011-0279-3). 
 
 

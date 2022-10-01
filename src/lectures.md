@@ -1,24 +1,48 @@
 # 担当講義
+
+研究室卒論・ゼミ活動等の単位は除きます．
+
+## 2022年度
+
+### 前期
+
+- 地球環境学概論（1年生・分担2回）
+- データサイエンス基礎 （1年生・15回）
+- 科学技術英語 （2年生 ・分担3回）
+- 空間情報学 （2年生 ・分担4回）
+- 地震学II （3年生 ・15回）
+- 地球環境防災学総合演習 （3年生 ・分担1回）
+- 地球環境防災学特別講義 （大学院・分担1回）
+
+### 後期
+
+- 固体地球物理学  （2年生・15回）
+- 自然防災学  （2年生・分担4回）
+- 地震防災学  （3年生・分担4回）
+- 地震学演習   （3年生・分担8回）
+- 地震学特論 （大学院・15回）
+- 基礎地学II  （教育学部・分担2回）
+
+
 ## 2021年度
 
 ### 前期
 
-- [地球環境学概論        ](https://gkm.hirosaki-u.ac.jp/syllabus/2021/syllabus_2021_04/04/04_7211000089_ja_JP.html) （1年生・分担2回）
-- [科学技術英語          ](https://gkm.hirosaki-u.ac.jp/syllabus/2021/syllabus_2021_04/04/04_7211000094_ja_JP.html) （2年生 ・分担3回）
-- [空間情報学            ](https://gkm.hirosaki-u.ac.jp/syllabus/2021/syllabus_2021_04/04/04_7211000092_ja_JP.html) （2年生 ・分担4回）
-- [地震学II              ](https://gkm.hirosaki-u.ac.jp/syllabus/2021/syllabus_2021_04/04/04_7211000101_ja_JP.html) （3年生 ・15回）
-- [地球環境防災学総合演習](https://gkm.hirosaki-u.ac.jp/syllabus/2021/syllabus_2021_04/04/04_7211000093_ja_JP.html) （3年生 ・分担1回）
-- [地球環境防災学特別講義](https://gkm.hirosaki-u.ac.jp/syllabus/2021/syllabus_2021_55/55/55_S211000170_ja_JP.html) （大学院・分担1回）
-
+- 地球環境学概論 （1年生・分担2回）
+- 科学技術英語 （2年生 ・分担3回）
+- 空間情報学 （2年生 ・分担4回）
+- 地震学II  （3年生 ・15回）
+- 地球環境防災学総合演習 （3年生 ・分担1回）
+- 地球環境防災学特別講義 （大学院・分担1回）
 
 ### 後期
-- [地域学ゼミナール      ](https://gkm.hirosaki-u.ac.jp/syllabus/2021/syllabus_2021_13/13/13_1212100141_ja_JP.html) （1年生・15回）
-- [固体地球物理学        ](https://gkm.hirosaki-u.ac.jp/syllabus/2021/syllabus_2021_04/04/04_7212000078_ja_JP.html) （2年生・15回）
-- [自然防災学            ](https://gkm.hirosaki-u.ac.jp/syllabus/2021/syllabus_2021_04/04/04_7212000080_ja_JP.html) （2年生・分担4回）[（講義資料）](https://tktmyd.github.io/intro-elasticity)
-- [地震防災学            ](https://gkm.hirosaki-u.ac.jp/syllabus/2021/syllabus_2021_04/04/04_7212000100_ja_JP.html) （3年生・分担4回）
-- [地震学演習            ](https://gkm.hirosaki-u.ac.jp/syllabus/2021/syllabus_2021_04/04/04_7212000096_ja_JP.html) （3年生・分担8回）
-- [地震学特論            ](https://gkm.hirosaki-u.ac.jp/syllabus/2021/syllabus_2021_55/55/55_S212000188_ja_JP.html) （大学院・15回）
-- [基礎地学II            ](https://gkm.hirosaki-u.ac.jp/syllabus/2021/syllabus_2021_02/02/02_3212027001_ja_JP.html) （教育学部・分担2回）
+- 地域学ゼミナール  （1年生・15回）
+- 固体地球物理学（2年生・15回）
+- 自然防災学 （2年生・分担4回）
+- 地震防災学 （3年生・分担4回）
+- 地震学演習 （3年生・分担8回）
+- 地震学特論 （大学院・15回）
+- 基礎地学II（教育学部・分担2回）
 
 ## 2020年度
 
@@ -58,6 +82,7 @@
 
 ### その他
 - 固体地球物理学特論（神戸大学理学部集中講義）
+
 ## 2018年度
 
 ### 前期
