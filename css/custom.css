@@ -26,7 +26,18 @@ span.award {
   font-size: 80%; 
   font-weight: bold;
 }
+
 span.highlight {
+  background: paleturquoise;    
+  border-radius: 10px;
+  font-family: sans-serif;
+  color: black;
+  padding: 4px 10px 4px 10px;
+  font-size: 80%; 
+  font-weight: bold;
+}
+
+span.invited {
   background: paleturquoise;    
   border-radius: 10px;
   font-family: sans-serif;
