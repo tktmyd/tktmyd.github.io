@@ -7,16 +7,36 @@ Seismic wave propagation and scattering in the heterogeneous earth, second editi
 Springer.    
 [__(Publisher)__](https://www.springer.com/gp/book/9783642230288)
 
+## Online Material (in Japanese)
+
+[PyGMT-HOWTO](https://tktmyd.github.io/pygmt-howto-jp/pygmt.html)
+
+[地震学入門](./files/introseism.pdf)
+
 ## Preprints
 
-
-Onodera, K., Kawamura, T., Tanaka, S., Ishihara, Y. & __Maeda, T.__ (2022). 
-Quantitative evaluation of the lunar seismic scattering and comparison between the Earth, Mars, and the Moon, 
-submitted to _Journal of Geophysical Research: Planets_, available at _ESSOAr_, doi:[10.1002/essoar.10512321.1](https://doi.org/10.1002/essoar.10512321.1). 
+Onodera, K., __Maeda, T.__,Nishida, K., Kawamura, T., Margerin, L., Menina, S., Lognonne, P. H., & Banerdt, W. B. (2023).  
+Seismic scattering and absorption properties of Mars estimated through coda analysis on a long-period surface wave of S1222a marsquake. 
+_submitted_, doi:[10.22541/essoar.167422916.68888746/v1](https://doi.org/10.22541/essoar.167422916.68888746/v1). 
 
 ## Peer-Reviewed Articles 
 
-[70]
+[73] 
+Yoshimitsu, N., __Maeda, T.__, Sei, T. (2023).
+Estimation of source parameters using a non-Gaussian probability density function in a Bayesian framework
+_Earth, Planets and Space_, _75_, 33. doi:[10.1186/s40623-023-01770-2](https://doi.org/10.1186/s40623-023-01770-2)
+
+[72] 
+Nardoni, C., De Siena, L., Magrini, F., Cammarano, F., __Maeda, T.__, & Mattei, E. (2023).
+Earthquake characteristics and structural properties of the Southern Tyrrhenian basin from full seismic wave simulations,
+_Surveys in Geophysics_, doi:[10.1007/s10712-023-09769-w](https://doi.org/10.1007/s10712-023-09769-w)
+
+[71] 
+Onodera, K., Kawamura, T., Tanaka, S., Ishihara, Y., & __Maeda, T.__ (2022).  
+Quantitative evaluation of the lunar seismic scattering and comparison between the Earth, Mars, and the Moon. 
+_Journal of Geophysical Research_: _Planets_, _127_, e2022JE007558. doi:[10.1029/2022JE007558](https://doi.org/10.1029/2022JE007558).
+
+[70] 
 Takeo, A., Nishida, K., Aoyama, H., Ishise, M., Kai, T., Kurihara, R., __Maeda, T.__, Mizutani, Y., Nakashima, Y., Nagahara, S., Wang, X., Ye, L., Akuhara, T., and Aoki, Y. (2022). 
 S-wave modelling of the Showa-Shinzan lava dome in Usu Volcano, Northern Japan, from seismic observations, _Geophysical Journal International_, _230_(_3_), 1662-1678. doi:[10.1093/gji/ggac111](https://doi.org/10.1093/gji/ggac111).
 
@@ -225,7 +245,8 @@ Ocean-influenced Rayleigh waves from outer-rise earthquakes and their effects on
 _Geophysical Journal International_, _205_, 1099--1107, 
 doi:[10.1093/gji/ggw074](https://doi.org/10.1093/gji/ggw074). 
 
-[36] Takagi, R., Obara, K., & __Maeda, T.__ (2016). 
+[36]
+Takagi, R., Obara, K., & __Maeda, T.__ (2016). 
 Slow slip event within a gap between tremor and locked zones in the Nankai subduction zone, 
 _Geophysical Research Letters_, _43_, 1066--1074, 
 doi:[10.1002/2015GL066987](https://doi.org/10.1002/2015GL066987). 
@@ -486,17 +507,23 @@ _The Science Reports of the Tohoku University. Fifth Series, Tohoku Geophysical 
 
 ## Articles without review
 
+増永仁・__前田拓人__・髙野智也 (2023). 3次元不均質速度構造モデルを用いた青森県周辺の地震に対するCMT解推定, 東北地域災害科学研究, 59, 印刷中．
+
+渡部大地・__前田拓人__・髙野智也 (2023). 2011年東北地方太平洋沖地震による地震の誘発現象の力学的検討, 東北地域災害科学研究, 59, 印刷中．
+
 __前田拓人__・齊藤竜彦・馬場俊孝 (2022). 津波即時予測手法の高度化のための地震・津波統合数値シミュレーション, 
 月刊地球, _44_(_8_), 374-380. 
 
 松野有希・小菅正裕・__前田拓人__ (2021). 北海道雌阿寒岳における深部・浅部低周波地震活動, 
-東北地域災害科学研究, _57_, 109-114.
+東北地域災害科学研究, _58_, 109-114.
 [Article Link](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume57/57-20.pdf)
+
+岡田知己・中山貴史・平原　聡・立岩和也・堀内茂木・ 勝俣　啓・大園真子・小菅正裕・前田拓人・山中佳子・片尾　浩・松島　健・八木原寛・2011 年東北地方太平洋沖地震緊急観測グループ (2021). 東北地方中南部における臨時地震観測, 東北地域災害科学研究, _58_, 19-24. 
 
 春山太一・小菅正裕・__前田拓人__ (2020). 
 火山性低周波地震に見られる特徴的地震波形：数値モデリングに基づく生成機構の検討,
 東北地域災害科学研究, _56_, 135-140. 
-[Article Link](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume56/56-31.pdf)
+[Article Link](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume56/56-25.pdf)
 
 石田早祐美・__前田拓人__・小菅正裕 (2020).  
 地震波干渉法に基づく青森県周辺のレイリー並み群速度分布とその周期依存性, 
@@ -536,12 +563,6 @@ __前田拓人__ (2007).
 東京大学地震研究所彙報, _77_, 1--25. 
 <br/>
 [Article Link](http://hdl.handle.net/2261/13238)
-
-## Online Material (in Japanese)
-
-[弾性体力学入門](https://tktmyd.github.io/intro-elasticity/intro.html)
-
-[PyGMT-HOWTO](https://tktmyd.github.io/pygmt-howto-jp/pygmt.html)
 
 ## Ohter Publications
 

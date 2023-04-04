@@ -1,6 +1,12 @@
 # First authored presentations
 
+
 ## 2022
+
+__前田拓人__, Adjoint 法に基づく波動場の時空間状態把握に向けて, 東京大学地震研究所共同利用研究集会『陸海両域での超高密度観測時代の観測・解析手法と地震波伝播理論の新展開』, S22-05, 2022-12-19. 
+
+
+__前田拓人__, アジョイント方程式に基づく波動場の推定とその津波即時予測問題への応用の試み, 日本地震学会2022年秋季大会, S01P-04, 札幌, 2022-10-24. 
 
 __前田拓人__, 高密度・広帯域・長期間の地震動振幅モニタリングに向けて, 日本地球惑星科学連合2022年大会, 2022-05-31. 
 
@@ -72,10 +78,9 @@ SSS10-03, 2018-05-23.
 **前田拓人**・西田究, 地震波干渉法と地震波勾配法による任意地点間のグリーン関数抽出：数値実験による検証, 
 日本地震学会2016年度秋季大会, 名古屋国際会議場（名古屋市）, S01-P04, 2016-10-07. 
 
-
-<span class="round">INVITED</span> **Maeda, T.**, Two-dimensional wavefield reconstruction: tsunami data assimilation and seismic gradiometry, 
+<span class="invited">INVITED</span> **Maeda, T.**, Two-dimensional wavefield reconstruction: tsunami data assimilation and seismic gradiometry, 
 5th IASPEI/IAEE International Symposium: Effects of Surface Geology on Seismic Motion (ESG5), 
-Taipei, Taiwan, I104A, 2016-08-15. (Invited)
+Taipei, Taiwan, I104A, 2016-08-15. 
 
 **前田拓人**・対馬弘晃・古村孝志, 線形長波および線形分散波の津波数値シミュレーションのための効果的なPML吸収境界条件, 
 地球惑星科学連合2016年大会, 
@@ -134,7 +139,7 @@ AOGS2015, Suntec City, Singapore,
 
 **前田拓人**, 深さ依存速度構造下の大規模地震波伝播数値シミュレーションのための曲線座標系差分法, 日本地球惑星科学連合2014年大会, パシフィコ横浜（横浜市）, SSS27-10, 2014-04-29.
 
-<span class="round">INVITED</span> **Maeda, T.**, Tsunami forecasting in Japan Trench by real-time data assimilation, Seismology Forum, IES, Academia Sinica, Taipei, Taiwan, 2014-03-19. (Invited)
+<span class="invited">INVITED</span> **Maeda, T.**, Tsunami forecasting in Japan Trench by real-time data assimilation, Seismology Forum, IES, Academia Sinica, Taipei, Taiwan, 2014-03-19.
 
 
 ## 2013
@@ -143,18 +148,18 @@ AOGS2015, Suntec City, Singapore,
 2013-12-12.
 
 
-<span class="round">INVITED</span> **前田拓人**, 海底圧力観測時代に向けた地震波・津波波動伝播シミュレーションとその応用, 京都大学防災研究所 地震・火山研究グループ研究会, 宇治,
-2013-10-25. (Invited)
+<span class="invited">INVITED</span> **前田拓人**, 海底圧力観測時代に向けた地震波・津波波動伝播シミュレーションとその応用, 京都大学防災研究所 地震・火山研究グループ研究会, 宇治,
+2013-10-25. 
 
-<span class="round">INVITED</span> **前田拓人**, 海底圧力観測時代に向けた地震波・津波波動伝播シミュレーションとその応用, 地球と惑星の物理素過程に関する研究会, 加賀,
-2013-10-18. (Invited)
+<span class="invited">INVITED</span> **前田拓人**, 海底圧力観測時代に向けた地震波・津波波動伝播シミュレーションとその応用, 地球と惑星の物理素過程に関する研究会, 加賀,
+2013-10-18. 
 
-<span class="round">INVITED</span> **前田拓人**, 広帯域地震波・津波のモニタリングとシミュレーションの融合研究, 日本地震学会2013年秋季大会（若手学術奨励賞受賞講演）,横浜,
-2013-10-07. (Invited)
+<span class="invited">INVITED</span> **前田拓人**, 広帯域地震波・津波のモニタリングとシミュレーションの融合研究, 日本地震学会2013年秋季大会（若手学術奨励賞受賞講演）,横浜,
+2013-10-07. 
 
 
-<span class="round">INVITED</span> **Maeda, T.**, Seismic and tsunami wave propagation of the 2011 Off the Pacific Coast of Tohoku Earthquake as inferred from the tsunami-coupled finite difference simulation, Colloquium, IES, Academia Sinica, Taiwan,
-2013−08−23. (Invited)
+<span class="invited">INVITED</span> **Maeda, T.**, Seismic and tsunami wave propagation of the 2011 Off the Pacific Coast of Tohoku Earthquake as inferred from the tsunami-coupled finite difference simulation, Colloquium, IES, Academia Sinica, Taiwan,
+2013−08−23. 
 
 **Maeda, T.**, T. Furumura, and K. Obara, Significant far-field P-wave scattering along Japan Trench detected by Hi-net array and its numerical simulation, IASPEI, Gothenburg, Sweden,
 2013-07-24.
@@ -167,7 +172,7 @@ AOGS2015, Suntec City, Singapore,
 **Maeda, T.**, T. Furumura, and K. Obara, Long-period seismic wave scattering by bathymetric features at a triple junction detected by Hi-net array, AGU Fall Meeting 2012, San Francisco,
 2012-12-07.
 
-<span class="round">INVITED</span> **Maeda, T.**, Significant tsunami observed at ocean-bottom pressure gauges during the 2011 off the Pacific coast of Tohoku Earthquake, French-Japanese seminar on earthquakes & tsunamis, 2012-11-14. **(invited)**
+<span class="invited">INVITED</span> **Maeda, T.**, Significant tsunami observed at ocean-bottom pressure gauges during the 2011 off the Pacific coast of Tohoku Earthquake, French-Japanese seminar on earthquakes & tsunamis, 2012-11-14. 
 
 **Maeda, T.**, K. Obara, M. Shinohara, T. Kanazawa, K. Uehira, A Feasibility Study on using data-assimilation technique for real time tsunami monitoring, ACES 8th International Workshop, Hawaii,
 2012-10-24.
@@ -226,8 +231,8 @@ AOGS2015, Suntec City, Singapore,
 **前田拓人**・行竹洋平・小原一成, 地震波干渉法により推定された2007年大分県の群発的地震活動に伴う地震波速度低下：自己相関関数の構成要素, 日本地球惑星科学連合2009年大会, 幕張,
 2009-05.
 
-<span class="round">INVITED</span> **Maeda, T.**, Y. Yukutake, and K. Obara, Recurrence of the seismic velocity change associated with earthquake swarm activities in NE Kyushu, Japan, revealed by the seismic Interferometry, Workshop on "Seismic Wave Scattering and Noise Correlation", Tohoku University, Sendai, Japan,
-2009-03. **(invited)**
+<span class="invited">INVITED</span> **Maeda, T.**, Y. Yukutake, and K. Obara, Recurrence of the seismic velocity change associated with earthquake swarm activities in NE Kyushu, Japan, revealed by the seismic Interferometry, Workshop on "Seismic Wave Scattering and Noise Correlation", Tohoku University, Sendai, Japan,
+2009-03.
 
 
 

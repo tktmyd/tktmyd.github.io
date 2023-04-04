@@ -14,7 +14,6 @@
 <html><a href="https://github.com/tktmyd" target="_new" title="github"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"></img></a></html>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-
 ## Education
 
 * Apr. 1997 -- Mar. 2001  B. Sc Student, Faculty of Science, Tohoku University
@@ -56,26 +55,29 @@ Although these thesis have been written in Japanese, they are both published in 
 * 2015 Morita Memorial Award, Tohoku University (2015-10-30)
 * 2019 Research Paper Award of the Seismological Society of Japan (for Maeda et al., 2010; 2020-10-29)
 * 2022 Research Paper Award of the Japan Society of Engineering Geology (for Doi et al., 2020; 2022-06-17)
+* The 2022 EPS Excellent Paper Award ([Maeda et al., 2017](https://doi.org/10.1186/s40623-017-0687-2)) [EPS](https://earth-planets-space.springeropen.com/eps-excellent-paper-award)
+
 
 ## Grants
 
 ### As the PI
 
-  * Grant-in-Aid for JSPS Fellows  [#03J07346](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-03J07346/) (2003--2005FY)
-  * Grant-in-Aid for Young Scientists (B) [#23740333](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23740333/) (2011--2013FY) 
-  * Grant-in-Aid for Young Scientists (B) [#15K16306](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15K16306/) (2015--2018FY)
-  * Grant-in-Aid for Scientific Research (C) [#19K04006](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K04006) (2019--2021FY Expected)
+* Grant-in-Aid for JSPS Fellows  [#03J07346](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-03J07346/) (2003--2005FY)
+* Grant-in-Aid for Young Scientists (B) [#23740333](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23740333/) (2011--2013FY) 
+* Grant-in-Aid for Young Scientists (B) [#15K16306](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15K16306/) (2015--2018FY)
+* Grant-in-Aid for Scientific Research (C) [#19K04006](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K04006) (2019--2021FY Expected)
 
 ### As a collaborator
-  * Grant-in-Aid for Scientific Research (B) [#20H02409](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H02409/) (2020--2023FY Expected)
-  * Grant-in-Aid for Scientific Research (B) [#19H02409](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19H02409/) (2019--2022FY Expected)
-  * Grant-in-Aid for Scientific Research (B) [#16H03146](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H03146/) (2016--2019FY) 
-  * Grant-in-Aid for Scientific Research (A) [#23244091](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23244091/) (2011--2013FY; partly participated)
+
+* Grant-in-Aid for Scientific Research (B) [#20H02409](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H02409/) (2020--2023FY Expected)
+* Grant-in-Aid for Scientific Research (B) [#19H02409](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19H02409/) (2019--2022FY Expected)
+* Grant-in-Aid for Scientific Research (B) [#16H03146](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H03146/) (2016--2019FY) 
+* Grant-in-Aid for Scientific Research (A) [#23244091](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23244091/) (2011--2013FY; partly participated)
 
 ## Other Resaerch-Related Activities
 
-  * Editorial board member, _Progress in Earth and Planetary Sciences_ (Apr. 2019--)
-  * Editorial board member, _Earth, Planets and Space_ (Jan. 2015--Dec. 2018 ) 
-  * Local organizing committee member, The summer school on Earthquake Science "Diversity of Earthquakes", 23-27 Sep. 2013, Hakone, Japan. 
+* Editorial board member, _Progress in Earth and Planetary Sciences_ (Apr. 2019--)
+* Editorial board member, _Earth, Planets and Space_ (Jan. 2015--Dec. 2018 ) 
+* Local organizing committee member, The summer school on Earthquake Science "Diversity of Earthquakes", 23-27 Sep. 2013, Hakone, Japan. 
 Local organizing committee member, 2014 Seismological Society of Japan Fall Meeting, 24-26 Nov. 2014, Niigata, Japan.
-  * Local organizing committee member, Joint Scientific Assembly of the International Association of Geodesy and the International Association of Seismology and Physics of the Earth's Interior (IAG-IASPEI 2017), July 20--August 4, 2017, Kobe, Japan. 
+* Local organizing committee member, Joint Scientific Assembly of the International Association of Geodesy and the International Association of Seismology and Physics of the Earth's Interior (IAG-IASPEI 2017), July 20--August 4, 2017, Kobe, Japan. 

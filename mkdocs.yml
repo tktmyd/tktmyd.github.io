@@ -44,9 +44,9 @@ plugins:
         - ja
 
 extra:
-  font:
-    #text: 'Noto Sans JP'
-    #code: 'Consolas'
+  analytics:
+    provider: google
+    property: G-Z7X3M6JBS8
 
 markdown_extensions:
   - markdown.extensions.def_list
