@@ -13,13 +13,14 @@ Springer.
 
 [地震学入門](./files/introseism.pdf)
 
-## Preprints
-
-Onodera, K., __Maeda, T.__,Nishida, K., Kawamura, T., Margerin, L., Menina, S., Lognonne, P. H., & Banerdt, W. B. (2023).  
-Seismic scattering and absorption properties of Mars estimated through coda analysis on a long-period surface wave of S1222a marsquake. 
-_submitted_, doi:[10.22541/essoar.167422916.68888746/v1](https://doi.org/10.22541/essoar.167422916.68888746/v1). 
 
 ## Peer-Reviewed Articles 
+
+[74] 
+Onodera, K., __Maeda, T.__,Nishida, K., Kawamura, T., Margerin, L., Menina, S., Lognonne, P. H., & Banerdt, W. B. (2023).  
+Seismic scattering and absorption properties of Mars estimated through coda analysis on a long-period surface wave of S1222a marsquake. 
+_Geophysical Research Letters_, _in press_, 
+doi:[10.1029/2022GL102716](https://doi.org/10.1029/2022GL102716). 
 
 [73] 
 Yoshimitsu, N., __Maeda, T.__, Sei, T. (2023).
