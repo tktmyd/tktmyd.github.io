@@ -174,7 +174,9 @@ OpenSWPC: An open-source integrated parallel simulation code for modeling seismi
 _Earth, Planets and Space_, _69_, 102, 
 doi:[10.1186/s40623-017-0687-2](https://doi.org/10.1186/s40623-017-0687-2). 
 <br/>
-__(The 2019 Research Paper Award of the Seismological Society of Japan)__
+__(The 2019 Research Paper Award of the Seismological Society of Japan)__    
+__(The 2022 EPS Excellent Paper Award)__
+
 
 [46] 
 Wang, D., Kawakatsu, H., Zhuang, J., Mori, J., __Maeda, T.__, Tsuruoka, H., & Zhao, X. (2017). 
