@@ -26,23 +26,23 @@ Springer.
 地震2, in press. 
 
 [74] 
-Onodera, K., __Maeda, T.__,Nishida, K., Kawamura, T., Margerin, L., Menina, S., Lognonne, P. H., & Banerdt, W. B. (2023).  
+Onodera, K., __Maeda, T.__,Nishida, K., Kawamura, T., Margerin, L., Menina, S., Lognonne, P. H., & Banerdt, W. B. (2023). 
 Seismic scattering and absorption properties of Mars estimated through coda analysis on a long-period surface wave of S1222a marsquake. 
 _Geophysical Research Letters_, _in press_, 
 doi:[10.1029/2022GL102716](https://doi.org/10.1029/2022GL102716). 
 
 [73] 
-Yoshimitsu, N., __Maeda, T.__, Sei, T. (2023).  
+Yoshimitsu, N., __Maeda, T.__, Sei, T. (2023). 
 Estimation of source parameters using a non-Gaussian probability density function in a Bayesian framework
 _Earth, Planets and Space_, _75_, 33. doi:[10.1186/s40623-023-01770-2](https://doi.org/10.1186/s40623-023-01770-2)
 
 [72] 
-Nardoni, C., De Siena, L., Magrini, F., Cammarano, F., __Maeda, T.__, & Mattei, E. (2023).
+Nardoni, C., De Siena, L., Magrini, F., Cammarano, F., __Maeda, T.__, & Mattei, E. (2023). 
 Earthquake characteristics and structural properties of the Southern Tyrrhenian basin from full seismic wave simulations,
 _Surveys in Geophysics_, doi:[10.1007/s10712-023-09769-w](https://doi.org/10.1007/s10712-023-09769-w)
 
 [71] 
-Onodera, K., Kawamura, T., Tanaka, S., Ishihara, Y., & __Maeda, T.__ (2022).  
+Onodera, K., Kawamura, T., Tanaka, S., Ishihara, Y., & __Maeda, T.__ (2022). 
 Quantitative evaluation of the lunar seismic scattering and comparison between the Earth, Mars, and the Moon. 
 _Journal of Geophysical Research_: _Planets_, _127_, e2022JE007558. doi:[10.1029/2022JE007558](https://doi.org/10.1029/2022JE007558).
 
