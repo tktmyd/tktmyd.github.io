@@ -16,6 +16,15 @@ Springer.
 
 ## Peer-Reviewed Articles 
 
+[76] 天坂登宇伊・__前田拓人__・髙野智也 (2023). 
+深発地震の地震波動伝播シミュレーションに基づく北海道下マントルウェッジの内部減衰構造, 
+地震2, in press. 
+
+
+[75] 寶川瑠璃・__前田拓人__・髙野智也・野口科子 (2023). 
+コーダ波振幅に基づく青森県周辺の複数観測網におけるサイト増幅特性空間分布の推定, 
+地震2, in press. 
+
 [74] 
 Onodera, K., __Maeda, T.__,Nishida, K., Kawamura, T., Margerin, L., Menina, S., Lognonne, P. H., & Banerdt, W. B. (2023).  
 Seismic scattering and absorption properties of Mars estimated through coda analysis on a long-period surface wave of S1222a marsquake. 
