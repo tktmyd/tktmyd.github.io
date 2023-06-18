@@ -32,7 +32,7 @@ _Geophysical Research Letters_, _in press_,
 doi:[10.1029/2022GL102716](https://doi.org/10.1029/2022GL102716). 
 
 [73] 
-Yoshimitsu, N., __Maeda, T.__, Sei, T. (2023).
+Yoshimitsu, N., __Maeda, T.__, Sei, T. (2023).  
 Estimation of source parameters using a non-Gaussian probability density function in a Bayesian framework
 _Earth, Planets and Space_, _75_, 33. doi:[10.1186/s40623-023-01770-2](https://doi.org/10.1186/s40623-023-01770-2)
 
