@@ -16,6 +16,7 @@ Springer.
 
 ## Peer-Reviewed Articles 
 
+<<<<<<< HEAD
 [76]
 天坂登宇伊・__前田拓人__・髙野智也 (2023). 
 深発地震の地震波動伝播シミュレーションに基づく北海道下マントルウェッジの内部減衰構造, 地震2, _76_, 93-107, doi:[10.4294/zisin.2022-19](https://doi.org/10.4294/zisin.2022-19).
@@ -23,6 +24,16 @@ Springer.
 [75]
 寶川瑠璃・__前田拓人__・髙野智也・野口科子 (2023). 
 コーダ波振幅に基づく青森県周辺の複数観測網におけるサイト増幅特性空間分布の推定, 地震2, _76_, 77-92, doi:[10.4294/zisin.2022-18](https://doi.org/10.4294/zisin.2022-18).
+=======
+[76] 天坂登宇伊・__前田拓人__・髙野智也 (2023). 
+深発地震の地震波動伝播シミュレーションに基づく北海道下マントルウェッジの内部減衰構造, 
+地震2, in press. 
+
+
+[75] 寶川瑠璃・__前田拓人__・髙野智也・野口科子 (2023). 
+コーダ波振幅に基づく青森県周辺の複数観測網におけるサイト増幅特性空間分布の推定, 
+地震2, in press. 
+>>>>>>> 411585c1ee0abc9bf66774d6be58dbc46ab842fd
 
 [74] 
 Onodera, K., __Maeda, T.__,Nishida, K., Kawamura, T., Margerin, L., Menina, S., Lognonne, P. H., & Banerdt, W. B. (2023). 
@@ -31,12 +42,12 @@ _Geophysical Research Letters_, _50_(_13_), e2022GL102716,
 doi:[10.1029/2022GL102716](https://doi.org/10.1029/2022GL102716). 
 
 [73] 
-Yoshimitsu, N., __Maeda, T.__, Sei, T. (2023).
+Yoshimitsu, N., __Maeda, T.__, Sei, T. (2023). 
 Estimation of source parameters using a non-Gaussian probability density function in a Bayesian framework
 _Earth, Planets and Space_, _75_, 33. doi:[10.1186/s40623-023-01770-2](https://doi.org/10.1186/s40623-023-01770-2)
 
 [72] 
-Nardoni, C., De Siena, L., Magrini, F., Cammarano, F., __Maeda, T.__, & Mattei, E. (2023).
+Nardoni, C., De Siena, L., Magrini, F., Cammarano, F., __Maeda, T.__, & Mattei, E. (2023). 
 Earthquake characteristics and structural properties of the Southern Tyrrhenian basin from full seismic wave simulations,
 _Surveys in Geophysics_, doi:[10.1007/s10712-023-09769-w](https://doi.org/10.1007/s10712-023-09769-w)
 
