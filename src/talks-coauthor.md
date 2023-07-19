@@ -2,6 +2,9 @@
 
 ## 2023
 
+森田寅靖・__前田拓人__・高野 智也, 地震動即時予測を目指したアジョイント方程式に基づく地震波動場の推定ー二次元SH波における数値実験ー, 日本地球惑星科学連合2023年大会, SSS07-P18, 幕張, 2023-05-21 
+
+
 Onodera, K., __Maeda, T.__, Nishida, K., Kawamura, T., Menina, S., Margerin, L., Lognonne, P., Banerdt, W. B., 
 Seismic scattering and attenuation properties of Mars estimated through coda analysis  of S1222a marsquake, 
 the 54th Lunar and Planetary Science Conference, 2023-03-13. 

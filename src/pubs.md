@@ -16,10 +16,18 @@ Springer.
 
 ## Peer-Reviewed Articles 
 
+[76]
+天坂登宇伊・__前田拓人__・髙野智也 (2023). 
+深発地震の地震波動伝播シミュレーションに基づく北海道下マントルウェッジの内部減衰構造, 地震2, _76_, 93-107, doi:[10.4294/zisin.2022-19](https://doi.org/10.4294/zisin.2022-19).
+
+[75]
+寶川瑠璃・__前田拓人__・髙野智也・野口科子 (2023). 
+コーダ波振幅に基づく青森県周辺の複数観測網におけるサイト増幅特性空間分布の推定, 地震2, _76_, 77-92, doi:[10.4294/zisin.2022-18](https://doi.org/10.4294/zisin.2022-18).
+
 [74] 
-Onodera, K., __Maeda, T.__,Nishida, K., Kawamura, T., Margerin, L., Menina, S., Lognonne, P. H., & Banerdt, W. B. (2023).  
+Onodera, K., __Maeda, T.__,Nishida, K., Kawamura, T., Margerin, L., Menina, S., Lognonne, P. H., & Banerdt, W. B. (2023). 
 Seismic scattering and absorption properties of Mars estimated through coda analysis on a long-period surface wave of S1222a marsquake. 
-_Geophysical Research Letters_, _in press_, 
+_Geophysical Research Letters_, _50_(_13_), e2022GL102716, 
 doi:[10.1029/2022GL102716](https://doi.org/10.1029/2022GL102716). 
 
 [73] 
@@ -33,7 +41,7 @@ Earthquake characteristics and structural properties of the Southern Tyrrhenian 
 _Surveys in Geophysics_, doi:[10.1007/s10712-023-09769-w](https://doi.org/10.1007/s10712-023-09769-w)
 
 [71] 
-Onodera, K., Kawamura, T., Tanaka, S., Ishihara, Y., & __Maeda, T.__ (2022).  
+Onodera, K., Kawamura, T., Tanaka, S., Ishihara, Y., & __Maeda, T.__ (2022). 
 Quantitative evaluation of the lunar seismic scattering and comparison between the Earth, Mars, and the Moon. 
 _Journal of Geophysical Research_: _Planets_, _127_, e2022JE007558. doi:[10.1029/2022JE007558](https://doi.org/10.1029/2022JE007558).
 
