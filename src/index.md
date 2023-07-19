@@ -31,7 +31,7 @@ I am studying wave propagation problems in seismology. I am particularly interes
 ### 2023-07
 
 - 講演会『日本海中部地震から40年 防災科学の進歩』にて[講演](./talks-outreach.md)しました．
-- 
+
 ### 2023-03
 
 - OpenSWPCの論文（[Maeda et al., 2017](https://doi.org/10.1186/s40623-017-0687-2)）により，The 2022 EPS Excellent Paper Awardを[受賞](https://www.earth-planets-space.org/ja/news-ja/epa2022-jp)しました．
