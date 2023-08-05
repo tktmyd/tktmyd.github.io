@@ -537,7 +537,7 @@ __前田拓人__・齊藤竜彦・馬場俊孝 (2022). 津波即時予測手法�
 [Article Link](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume56/56-25.pdf)
 
 石田早祐美・__前田拓人__・小菅正裕 (2020).  
-地震波干渉法に基づく青森県周辺のレイリー並み群速度分布とその周期依存性, 
+地震波干渉法に基づく青森県周辺のレイリー波群速度分布とその周期依存性, 
 東北地域災害科学研究, _56_, 167-172. 
 [Article Link](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume56/56-31.pdf)
 
