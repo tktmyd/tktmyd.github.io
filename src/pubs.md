@@ -131,7 +131,7 @@ doi:[10.1029/2018JB016833](https://doi.org/10.1029/2018JB016833).
 [55] 
 Furumura, T., __Maeda, T.__, & Oba, A. (2019). 
 Early forecast of long-period ground motions via data assimilation of observed ground motions and wave propagation simulations, 
-_Geophysical Research Letters_, _46_, 138--147. 
+_Geophysical Research Letters_, _46_, 138-147. 
 doi:[10.1029/2018GL081163](https://doi.org/10.1029/2018GL081163).
 
 [54] 
@@ -150,31 +150,31 @@ doi:[10.1186/s40623-018-0905-6](https://doi.org/10.1186/s40623-018-0905-6).
 [52]
 Kano, M., Aso, N., Matsuzawa, T., Ide, S., Annoura, S., Arai, R., Baba, S., Bostock, M., Chao, K., Heki, K., Itaba, S., Ito, Y., Kamaya, N., __Maeda, T.__, Maury, J., Nakamura, M., Nishimura, T., Obana, K., Ohta, K., Poiata, N., Rousset, B., Sugioka, H., Takagi, R., Takahashi, T., Takeo, A., Tu, Y., Uchida, N., Yamashita, Y., & Obara, K. (2018). 
 Development of a Slow Earthquake Database, 
-_Seismological Research Letters_, _89_(4), 1566--1575, 
+_Seismological Research Letters_, _89_(4), 1566-1575, 
 doi:[10.1785/0220180021](https://doi.org/10.1785/0220180021). 
 
 [51] 
 Kurihara, R., Obara, K., Takeo, A. & __Maeda, T.__ (2018). 
 Migration of deep low frequency tremor triggered by teleseismic earthquakes in the southwest Japan subduction zone, 
-_Geophysical Research Letters_, _45_, 3413--3419, 
+_Geophysical Research Letters_, _45_, 3413-3419, 
 doi:[10.1002/2017GL076779](https://doi.org/10.1002/2017GL076779). 
 
 [50] 
 Baba, S., Takeo, A., Obara, K., Kato, A. __Maeda, T.__, & Matsuzawa, T. (2018). 
 Temporal activity modulation of deep very low frequency earthquakes in Shikoku, southwest Japan, 
-_Geophysical Research Letters_, _45_, 733--738, 
+_Geophysical Research Letters_, _45_, 733-738, 
 doi:[10.1002/2017GL076122](https://doi.org/10.1002/2017GL076122). 
 
 [49] 
 Wang, Y., Satake, K., __Maeda, T.__, & Gusman, A. R. (2017). 
 Green's Function-based Tsunami Data Assimilation (GFTDA): A fast data assimilation approach toward tsunami early warning, 
-_Geophysical Research Letters_, _44_, 10282--10289, 
+_Geophysical Research Letters_, _44_, 10282-10289, 
 doi:[10.1002/2017GL075307](https://doi.org/10.1002/2017GL075307). 
 
 [48] 
 Morioka, H., Kumagai, H., & __Maeda, T.__ (2017). 
 Theoretical basis of the amplitude source location method for volcano-seismic signals, 
-_Journal of Geophysical Research: Solid Earth_, _122_, 6538--6551, 
+_Journal of Geophysical Research: Solid Earth_, _122_, 6538-6551, 
 doi:[10.1002/2017JB013997](https://doi.org/10.1002/2017JB013997). 
 
 [47] <span class="award">AWARDED</span> 
@@ -190,7 +190,7 @@ __(The 2022 EPS Excellent Paper Award)__
 [46] 
 Wang, D., Kawakatsu, H., Zhuang, J., Mori, J., __Maeda, T.__, Tsuruoka, H., & Zhao, X. (2017). 
 Automated determination of magnitude and source length of large earthquakes using back-projection and _P_ wave amplitudes, 
-_Geophysical Research Letters_, _44_, 5447--5456, 
+_Geophysical Research Letters_, _44_, 5447-5456, 
 doi:[10.1002/2017GL073801](https://doi.org/10.1002/2017GL073801). 
 
 [45] 
@@ -202,7 +202,7 @@ doi:[10.1038/s41598-017-03048-6](https://doi.org/10.1038/s41598-017-03048-6).
 [44] 
 Todoriki, M., Furumura, T., & __Maeda, T.__ (2017). 
 Effects of seawater on elongated duration of ground motion as well as variation in its amplitude for offshore earthquakes, 
-_Geophysical Journal International_, _208_, 226--233, 
+_Geophysical Journal International_, _208_, 226-233, 
 doi:[10.1093/gji/ggw388](https://doi.org/10.1093/gji/ggw388). 
 
 [43]
@@ -217,7 +217,7 @@ doi:[10.1186/s40645-016-0107-4](https://doi.org/10.1186/s40645-016-0107-4).
 [40] <span class="highlight">EDITOR'S HIGHLIGHT</span> 
 Gusman, A. R., Sheehan, A. F., Stake, K., Heidarzadeh, M., Mulia, I. E., & __Maeda, T.__ (2016). 
 Tsunami data assimilation of high-density offshore pressure gauges off Cascade from the 2012 Haida Gwaii earthquake, 
-_Geophysical Research Letters_, _43_, 4189--4196, 
+_Geophysical Research Letters_, _43_, 4189-4196, 
 doi:[10.1002/2016GL068368](https://doi.org/10.1002/2016GL068368).
 <br/>
 [__(Highlight in EOS)__](https://eos.org/research-spotlights/streamlining-rapid-tsunami-forecasting)
@@ -226,14 +226,14 @@ doi:[10.1002/2016GL068368](https://doi.org/10.1002/2016GL068368).
 [42]
 Yoshimitsu, N., Furumura, T., & __Maeda, T.__ (2016). 
 Geometric effect on a laboratory-scale wavefield inferred from a three-dimensional numerical simulation, 
-_Journal of Applied Geophysics_, _132_, 184--192, 
+_Journal of Applied Geophysics_, _132_, 184-192, 
 doi:[10.1016/j.jappgeo.2016.07.002](https://doi.org/10.1016/j.jappgeo.2016.07.002). 
 
 [41] 
 <span class="highlight">EDITOR'S HIGHLIGHT</span> 
 Takemura, S., __Maeda, T.__, Furumura, T., & Obara, K. (2016). 
 Constraining the source location of the 30 May 2015 (_Mw_ 7.9) Bonin deep-focus earthquake using seismogram envelopes of high-frequency _P_ waveforms: Occurrence of deep-focus earthquake at the bottom of a subducting slab, 
-_Geophysical Research Letters_, _43_, 4297--4302, 
+_Geophysical Research Letters_, _43_, 4297-4302, 
 doi:[10.1002/2016GL068437](https://doi.org/10.1002/2016GL068437).
 
 [39] 
@@ -246,20 +246,20 @@ _Earth, Planets and Space_, _68_, 63, doi:[10.1186/s40623-016-0436-y](https://do
 [38] 
 Annoura, S., Obara, K., & __Maeda, T.__ (2016). 
 Total energy of deep low-frequency tremor in the Nankai subduction zone, southwest Japan, 
-_Geophysical Research Letters_, _43_, 2562--2567, doi:[10.1002/2016GL067780](https://doi.org/10.1002/2016GL067780). 
+_Geophysical Research Letters_, _43_, 2562-2567, doi:[10.1002/2016GL067780](https://doi.org/10.1002/2016GL067780). 
 <br/>
 [__(data available at the slow earthquake database)__](http://www-solid.eps.s.u-tokyo.ac.jp/~sloweq/)
 
 [37] 
 Noguchi, S, __Maeda, T.__, and Furumura, T. (2016). 
 Ocean-influenced Rayleigh waves from outer-rise earthquakes and their effects on durations of long-period ground motion, 
-_Geophysical Journal International_, _205_, 1099--1107, 
+_Geophysical Journal International_, _205_, 1099-1107, 
 doi:[10.1093/gji/ggw074](https://doi.org/10.1093/gji/ggw074). 
 
 [36]
 Takagi, R., Obara, K., & __Maeda, T.__ (2016). 
 Slow slip event within a gap between tremor and locked zones in the Nankai subduction zone, 
-_Geophysical Research Letters_, _43_, 1066--1074, 
+_Geophysical Research Letters_, _43_, 1066-1074, 
 doi:[10.1002/2015GL066987](https://doi.org/10.1002/2015GL066987). 
 
 [35] 
@@ -271,7 +271,7 @@ doi:[10.1002/2015GL0066443](https://doi.org/10.1002/2015GL066443).
 [34] <span class="highlight">EDITOR'S HIGHLIGHT</span> 
 __Maeda, T.__, Obara, K., M. Shinohara, T. Kanazawa, & K. Uehira (2015). 
 Successive estimation of a tsunami wavefield without earthquake source data: A data assimilation approach toward real-time tsunami forecasting, 
-_Geophysical Research Letters_, _42_, 7923--7932, 
+_Geophysical Research Letters_, _42_, 7923-7932, 
 doi:[10.1002/2015GL065588](https://doi.org/10.1002/2015GL065588). 
 <br/>
 [__(editor's highlight)__](https://eos.org/research-spotlights/tsunami-forecast-system-could-provide-early-warnings-in-japan)
@@ -281,73 +281,73 @@ doi:[10.1002/2015GL065588](https://doi.org/10.1002/2015GL065588).
 [33] 
 Takagi, R., Nishida, K., Aoki, Y., __Maeda, T.__, Masuda, K., Takeo, M., Obara, K., Shiomi, K., Sato, M., & K. Saito (2015). 
 A single bit matters: Coherent noise of seismic data loggers, 
-_Seismological Research Letters_, _86_, 901--907, 
+_Seismological Research Letters_, _86_, 901-907, 
 doi:[10.1785/0220150030](https://doi.org/10.1785/0220150030). 
 
 [32] 
 Takemura S., Furumura, T., & __Maeda, T.__ (2015). 
 Scattering of high-frequency seismic waves caused by irregular surface topography and small-scale velocity inhomogeneity, 
-_Geophysical Journal International_, _201_, 459--474, 
+_Geophysical Journal International_, _201_, 459-474, 
 doi:[10.1093/gji/ggv038](https://doi.org/10.1093/gji/ggv038). 
 
 [31] 
 Padhy, S., Furumura, T., & __Maeda, T.__ (2014). 
 Decoupling of Pacific subduction zone guided waves beneath central Japan: Evidence for thin slab, 
-_Journal of Geophysical Research: Solid Earth_, _119_, 8478--8501, 
+_Journal of Geophysical Research: Solid Earth_, _119_, 8478-8501, 
 doi:[10.1002/2014JB011562](https://doi.org/10.1002/2014JB011562). 
 
 [30]
 __Maeda, T.__, Furumura, T., & Obara, K. (2014). 
 Scattering of teleseismic _P_-waves by the Japan Trench: A significant effect of reverberation in the seawater column, 
-_Earth and Planetary Science Letters_, _397_, 101--110, 
+_Earth and Planetary Science Letters_, _397_, 101-110, 
 doi:[10.1016/j.epsl.2014.04.037](https://doi.org/10.1016/j.epsl.2014.04.037). 
 
 [29] 
 Zhang, L., Utada, H., Shimizu, H., Baba, K., & __Maeda, T.__ (2014). 
 Three-dimensional simulation of the electromagnetic fields induced by the 2011 Tohoku tsunami, 
-_Journal of Geophysical Research: Solid Earth_, _119_, 150--168, 
+_Journal of Geophysical Research: Solid Earth_, _119_, 150-168, 
 doi:[10.1002/2013JB010264](http://doi.org/10.1002/2013JB010264). 
 
 [28] 
 Oishi, Y., Piggott, M., __Maeda, T.__, Kramer, S., Collins, G., Tsushima, H., & Furumura, T. (2013). 
 Three-dimensional tsunami propagation simulations using an unstructured mesh finite element model, 
-_Journal of Geophysical Research: Solid Earth_, _118_, 2998--3018, 
+_Journal of Geophysical Research: Solid Earth_, _118_, 2998-3018, 
 doi:[10.1002/jgrb.50225](https://doi.org/10.1002/jgrb.50225). 
 
 [27] 
 __Maeda, T.__, Furumura, T., Noguchi, S., Takemura, S., Sakai, S., Shinohara, M., Iwai, K., & Lee, S.-J. (2013). 
 Seismic and tsunami wave propagation of the 2011 Off the Pacific Coast of Tohoku Earthquake as inferred from the tsunami-coupled finite difference simulation, 
-_Bulletin of the Seismological Society of America_, _103_, 1456--1472, 
+_Bulletin of the Seismological Society of America_, _103_, 1456-1472, 
 doi:[10.1785/0120120118](https://doi.org/10.1785/0120120118). 
 
 [26] 
 Padhy, S., Takemura, S., Takemoto, T., __Maeda, T.__, & Furumura, T. (2013). 
 Spatial and temporal variations in coda attenuation associated with the 2011 Off the Pacific Coast of Tohoku, Japan (Mw 9) Earthquake, 
-_Bulletin of the Seismological Society of America_, _103_, 1411--1428, 
+_Bulletin of the Seismological Society of America_, _103_, 1411-1428, 
 doi:[10.1785/0120120026](https://doi.org/10.1785/0120120026). 
 
 [25] 
 __Maeda, T.__, & Furumura, T. (2013). 
 FDM simulation of seismic waves, ocean acoustic waves, and tsunamis based on tsunami-coupled equations of motion, 
-_Pure and Applied Geophysics_, _170_, 109--127, 
+_Pure and Applied Geophysics_, _170_, 109-127, 
 doi:[10.1007/s00024-011-0430-z](https://doi.org/10.1007/s00024-011-0430-z). 
 
 [24] 
 Noguchi, S., __Maeda, T.__, & Furumura, T. (2013). 
 FDM simulation of an anomalous later phase from the Japan Trench subduction zone earthquakes, 
-_Pure and Applied Geophysics_, _170_, 95--108, 
+_Pure and Applied Geophysics_, _170_, 95-108, 
 doi:[10.1007/s00024-011-0412-1](https://doi.org/10.1007/s00024-011-0412-1). 
 
 [23] 
 Matsuzawa, T., Obara, K., __Maeda, T.__, Asano, Y., & Saito, T. (2012). 
 Love and Rayleigh wave microseisms excited by migrating ocean swells in the North Atlantic detected in Japan and Germany, 
-_Bulletin of the Seismological Society of America_, _102_, 1864--1871, 
+_Bulletin of the Seismological Society of America_, _102_, 1864-1871, 
 doi:[10.1785/0120110269](https://doi.org/10.1785/0120110269). 
 
 [22] 
 Takemoto, T., Furumura, T., Saito, T., __Maeda, T.__, & Noguchi, S. (2012). 
 Spatial- and frequency-dependent properties of site amplification factors in Japan derived by the coda normalization method, 
-_Bulletin of the Seismological Society of America_, _102_, 1462--1476, 
+_Bulletin of the Seismological Society of America_, _102_, 1462-1476, 
 doi:[10.1785/0120110188](https://doi.org/10.1785/0120110188). 
 
 [21] 
@@ -359,7 +359,7 @@ doi:[10.1029/2012GL051420](https://doi.org/10.1029/2012GL051420).
 [20] 
 Utada, H., Shimizu, H., Ogawa, T., __Maeda, T.__, Furumura, T., Yamamoto, T., Yamazaki, N., Yoshitake, Y., & Nagamachi, S. (2011). 
 Geomagnetic field changes in association with the 2011 Off the Pacific Coast of Tohoku Earthquake and Tsunami, 
-_Earth and Planetary Science Letters_, _311_, 11--27, 
+_Earth and Planetary Science Letters_, _311_, 11-27, 
 doi:[10.1016/j.epsl.2011.09.036](https://doi.org/10.1016/j.epsl.2011.09.036). 
 
 [19] 
@@ -373,14 +373,14 @@ doi:[10.1029/2011JB008464](https://doi.org/10.1029/2011JB008464).
 [18] <span class="award">AWARDED</span> 
 __Maeda, T.__, Furumura, T., Sakai, S. & Shinohara, M. (2011). 
 Significant tsunami observed at the ocean-bottom pressure gauges during the 2011 Off the Pacific Coast of Tohoku Earthquake, 
-_Earth, Planets and Space_, _63_, 803--808, 
+_Earth, Planets and Space_, _63_, 803-808, 
 doi:[10.5047/eps.2011.06.005](https://doi.org/10.5047/eps.2011.06.005). 
 <br/>
 __(2013 EPS Award)__
 
 [17] 
 Furumura, T., Takemura, S., Noguchi, S., Takemoto, T., __Maeda, T.__, Iwai, K., & Padhy, S. (2011). 
-Strong ground motions from the 2011 Off the Pacific Coast of Tohoku, Japan (_Mw_=9.0) earthquake obtained from a dense nation-wide seismic network, _Landslides_, _8_, 333--338, 
+Strong ground motions from the 2011 Off the Pacific Coast of Tohoku, Japan (_Mw_=9.0) earthquake obtained from a dense nation-wide seismic network, _Landslides_, _8_, 333-338, 
 doi:[10.1007/s10346-011-0279-3](http://doi.org/10.1007/s10346-011-0279-3). 
 
 
@@ -405,7 +405,7 @@ doi:[10.1029/2010JB007918](https://doi.org/10.1029/2010JB007918).
 [13] <span class="highlight">EDITOR'S HIGHLIGHT</span>  <span class="award">AWARDED</span> 
 __Maeda, T.__, Obara, K., & Yukutake, Y. (2010). 
 Seismic velocity decrease and recovery related to earthquake swarms in a geothermal area, 
-_Earth, Planets and Space_, _62_, 685--691, 
+_Earth, Planets and Space_, _62_, 685-691, 
 doi:[10.5047/eps.2010.08.006](https://doi.org/10.5047/eps.2010.08.006). 
 <br/>
 __(The 2011 Research Paper Award of the Seismological Society of Japan)__<br/>
@@ -458,7 +458,7 @@ doi:[10.1029/2008JB006043](https://doi.org/10.1029/2008JB006043).
 [05] 
 Kumagai, H., Palacios, P., __Maeda, T.__, Castillo, D. B., & Nakano, M. (2009). 
 Seismic tracking of lahars using tremor signals, 
-_Journal of Volcanology and Geothermal Research_, _183_, 112--121, doi:[10.1016/j.jvolgeores.2009.03.010](https://doi.org/10.1016/j.jvolgeores.2009.03.010). 
+_Journal of Volcanology and Geothermal Research_, _183_, 112-121, doi:[10.1016/j.jvolgeores.2009.03.010](https://doi.org/10.1016/j.jvolgeores.2009.03.010). 
 
 
 [04] 
@@ -470,12 +470,12 @@ _Geophysical Research Letters_, _36_, L08304, doi:[10.1029/2009GL037454](https:/
 [03] 
 __Maeda, T.__, Sato, H. & Nishimura, T. (2008). 
 Synthesis of coda wave envelopes in randomly inhomogeneous elastic media in a half space: Single scattering model including Rayleigh waves, 
-_Geophysical Journal International_, _172_, 130--154, doi:[10.1111/j.1365-246X.2007.03603.x](https://doi.org/10.1111/j.1365-246X.2007.03603.x). 
+_Geophysical Journal International_, _172_, 130-154, doi:[10.1111/j.1365-246X.2007.03603.x](https://doi.org/10.1111/j.1365-246X.2007.03603.x). 
 
 [02] 
 __Maeda, T.__, Sato, H. & Ohtake M. (2006). 
 Constituents of vertical-component coda waves at long periods, 
-_Pure and Applied Geophysics_, _163_, 549--566, doi:[10.1007/s00024-005-0031-9](https://doi.org/10.1007/s00024-005-0031-9). 
+_Pure and Applied Geophysics_, _163_, 549-566, doi:[10.1007/s00024-005-0031-9](https://doi.org/10.1007/s00024-005-0031-9). 
 
 [01] 
 __Maeda, T.__, Sato, H. & Ohtake M. (2003). 
@@ -496,7 +496,7 @@ doi:[10.1186/BF03352769](https://doi.org/10.1186/BF03352769).
 
 Research group for deep structure of Nagamachi-Rifu Fault (2002). 
 Seismic reflection survey in Nagamachi-Rifu Fault, Sendai, Northeastern Japan, 
-_The Science Reports of the Tohoku University. Fifth Series, Tohoku Geophysical Journal_, _36_, 311--356.    
+_The Science Reports of the Tohoku University. Fifth Series, Tohoku Geophysical Journal_, _36_, 311-356.    
 [(Article Link)](http://hdl.handle.net/10097/45407)
 
 
@@ -504,12 +504,12 @@ _The Science Reports of the Tohoku University. Fifth Series, Tohoku Geophysical 
 
 井上俊介・堤重信・__前田拓人__・南一生 (2013). 
 スーパーコンピュータ「京」における地震動シミュレーションコードの高性能化, 
-情報処理学会論文誌 コンピューティングシステム, _6_, 22--30.    
+情報処理学会論文誌 コンピューティングシステム, _6_, 22-30.    
 [(Article Link)](https://ci.nii.ac.jp/naid/110009606657)
 
 南一生・井上俊介・堤重信・__前田拓人__・長谷川幸弘・黒田明義・寺井優晃・横川三津夫 (2012). 
 「京」コンピュータにおける疎行列とベクトル積の性能チューニングと性能評価, 
-ハイパフォーマンスコンピューティングと計算科学シンポジウム論文集, _2012_, 23--31.    
+ハイパフォーマンスコンピューティングと計算科学シンポジウム論文集, _2012_, 23-31.    
 [(Article Link)](https://ci.nii.ac.jp/naid/170000069128)
 
 
@@ -543,7 +543,7 @@ __前田拓人__・齊藤竜彦・馬場俊孝 (2022). 津波即時予測手法�
 
 向井優理恵・古村孝志・__前田拓人__ (2018). 
 関東平野における長周期地震動増幅の特徴的方位依存性とその要因, 
-地震研究所彙報, _93_, 31--48. 
+地震研究所彙報, _93_, 31-48. 
 <br/>
 [(Article Link)](http://www.eri.u-tokyo.ac.jp/BERI/pdf/IHO93203_02.pdf)
 
@@ -555,7 +555,7 @@ __前田拓人__・齊藤竜彦・馬場俊孝 (2022). 津波即時予測手法�
 
 __Maeda, T.__, & K. Obara (2009). 
 Hypocenter distribution of deep low-frequency tremors in Nankai subduction zone, Japan, 
-_Report of the National Research Institute for Earth Science and Disaster Prevention_, _74_, 12--20. 
+_Report of the National Research Institute for Earth Science and Disaster Prevention_, _74_, 12-20. 
 <br/>
 [(Article Link)](http://dil-opac.bosai.go.jp/publication/nied_report/PDF/74/74-2maeda.pdf)
 
@@ -571,7 +571,7 @@ __前田拓人__ (2007).
 
 田中聡・浜口博之・山脇輝夫・西村太志・植木貞人・中道治久・宮町宏樹・筒井智樹・松尾のり道・及川純・大湊隆雄・宮岡一樹・鬼澤真也・森健彦・相澤幸司・中原恒・堀修一郎・佐藤俊也・河野俊夫・仁田交市・立花憲司・鍵山恒臣・萩原道徳・長田昇・井本良子・辻浩・岡田弘・前川徳光・鈴木敦生・小菅正裕・山本英和・佐野剛・奥田隆・山本圭吾・吉川慎・外輝明・松本聡・八木原寛・平野舟一郎・金尾正紀・巻和夫，小林徹，神出裕一郎，高橋透，鶴我佳代子，佐藤峰司，橋野弘憲，諏訪謡子，武田嘉人，山下哲央， Ulrich Wegler，内田直希，池田雅也・高橋努・__前田拓人__・馬渕弘靖・千田良道・相澤信吾・久野智晴・大谷佳子・山下幹也・小林勝幸・長濱庸介・平山繁幸・岩切誠一郎・伊藤壮介・吉川美由紀・中村めぐみ・大島光貴・森脇健 (2002). 
 岩手山における人工地震探査－観測および初動の読み取り－, 
-東京大学地震研究所彙報, _77_, 1--25. 
+東京大学地震研究所彙報, _77_, 1-25. 
 <br/>
 [(Article Link)](http://hdl.handle.net/2261/13238)
 
