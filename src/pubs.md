@@ -458,33 +458,30 @@ doi:[10.1029/2008JB006043](https://doi.org/10.1029/2008JB006043).
 [05] 
 Kumagai, H., Palacios, P., __Maeda, T.__, Castillo, D. B., & Nakano, M. (2009). 
 Seismic tracking of lahars using tremor signals, 
-_Journal of Volcanology and Geothermal Research_, _183_, 112--121, doi:10.1016/j.jvolgeores.2009.03.010. 
-https://doi.org/10.1016/j.jvolgeores.2009.03.010
+_Journal of Volcanology and Geothermal Research_, _183_, 112--121, doi:[10.1016/j.jvolgeores.2009.03.010](https://doi.org/10.1016/j.jvolgeores.2009.03.010). 
 
 
 [04] 
 Obara, K., & __Maeda, T.__ (2009). 
 Reverse propagation of T waves from the Emperor Seamount Chain, 
-_Geophysical Research Letters_, _36_, L08304, doi:10.1029/2009GL037454. 
-https://doi.org/10.1029/2009GL037454
+_Geophysical Research Letters_, _36_, L08304, doi:[10.1029/2009GL037454](https://doi.org/10.1029/2009GL037454). 
+
 
 [03] 
 __Maeda, T.__, Sato, H. & Nishimura, T. (2008). 
 Synthesis of coda wave envelopes in randomly inhomogeneous elastic media in a half space: Single scattering model including Rayleigh waves, 
-_Geophysical Journal International_, _172_, 130--154, doi:10.1111/j.1365-246X.2007.03603.x. 
-https://doi.org/10.1111/j.1365-246X.2007.03603.x
+_Geophysical Journal International_, _172_, 130--154, doi:[10.1111/j.1365-246X.2007.03603.x](https://doi.org/10.1111/j.1365-246X.2007.03603.x). 
 
 [02] 
 __Maeda, T.__, Sato, H. & Ohtake M. (2006). 
 Constituents of vertical-component coda waves at long periods, 
-_Pure and Applied Geophysics_, _163_, 549--566, doi:10.1007/s00024-005-0031-9. 
-https://doi.org/10.1007/s00024-005-0031-9
+_Pure and Applied Geophysics_, _163_, 549--566, doi:[10.1007/s00024-005-0031-9](https://doi.org/10.1007/s00024-005-0031-9). 
 
 [01] 
 __Maeda, T.__, Sato, H. & Ohtake M. (2003). 
 Synthesis of Rayleigh-wave envelope on the spherical Earth: Analytic solution of the single isotropic-scattering model for a circular source radiation, 
-_Geophysical Research Letters_, _30_, 1286, doi:10.1029/2002GL016629. 
-https://doi.org/10.1029/2002GL016629
+_Geophysical Research Letters_, _30_, 1286, doi:[10.1029/2002GL016629](https://doi.org/10.1029/2002GL016629). 
+
 
 
 ## As a group member
@@ -499,65 +496,68 @@ doi:[10.1186/BF03352769](https://doi.org/10.1186/BF03352769).
 
 Research group for deep structure of Nagamachi-Rifu Fault (2002). 
 Seismic reflection survey in Nagamachi-Rifu Fault, Sendai, Northeastern Japan, 
-_The Science Reports of the Tohoku University. Fifth Series, Tohoku Geophysical Journal_, _36_, 311--356. 
-[Article Link](http://hdl.handle.net/10097/45407)
+_The Science Reports of the Tohoku University. Fifth Series, Tohoku Geophysical Journal_, _36_, 311--356.    
+[(Article Link)](http://hdl.handle.net/10097/45407)
 
 
 ## Peer-Reviewed Proceedings
 
 井上俊介・堤重信・__前田拓人__・南一生 (2013). 
 スーパーコンピュータ「京」における地震動シミュレーションコードの高性能化, 
-情報処理学会論文誌 コンピューティングシステム, _6_, 22--30. 
-[Article Link](https://ci.nii.ac.jp/naid/110009606657)
+情報処理学会論文誌 コンピューティングシステム, _6_, 22--30.    
+[(Article Link)](https://ci.nii.ac.jp/naid/110009606657)
 
 南一生・井上俊介・堤重信・__前田拓人__・長谷川幸弘・黒田明義・寺井優晃・横川三津夫 (2012). 
 「京」コンピュータにおける疎行列とベクトル積の性能チューニングと性能評価, 
-ハイパフォーマンスコンピューティングと計算科学シンポジウム論文集, _2012_, 23--31. 
-[Article Link](https://ci.nii.ac.jp/naid/170000069128)
+ハイパフォーマンスコンピューティングと計算科学シンポジウム論文集, _2012_, 23--31.    
+[(Article Link)](https://ci.nii.ac.jp/naid/170000069128)
 
 
 ## Articles without review
 
-増永仁・__前田拓人__・髙野智也 (2023). 3次元不均質速度構造モデルを用いた青森県周辺の地震に対するCMT解推定, 東北地域災害科学研究, 59, 印刷中．
+渡部大地・__前田拓人__・髙野智也 (2023). 2011年東北地方太平洋沖地震による地震の誘発現象の力学的検討, 東北地域災害科学研究, __59__, 1-6．   
+[(Article Link)](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume59/59-1.pdf)
 
-渡部大地・__前田拓人__・髙野智也 (2023). 2011年東北地方太平洋沖地震による地震の誘発現象の力学的検討, 東北地域災害科学研究, 59, 印刷中．
+増永仁・__前田拓人__・髙野智也 (2023). 3次元不均質速度構造モデルを用いた青森県周辺の地震に対するCMT解推定, 東北地域災害科学研究, __59__, 25-30．   
+[(Article Link)](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume59/59-5.pdf)
+
 
 __前田拓人__・齊藤竜彦・馬場俊孝 (2022). 津波即時予測手法の高度化のための地震・津波統合数値シミュレーション, 
 月刊地球, _44_(_8_), 374-380. 
 
 松野有希・小菅正裕・__前田拓人__ (2021). 北海道雌阿寒岳における深部・浅部低周波地震活動, 
-東北地域災害科学研究, _58_, 109-114.
-[Article Link](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume57/57-20.pdf)
+東北地域災害科学研究, _58_, 109-114.    
+[(Article Link)](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume57/57-20.pdf)
 
 岡田知己・中山貴史・平原　聡・立岩和也・堀内茂木・ 勝俣　啓・大園真子・小菅正裕・前田拓人・山中佳子・片尾　浩・松島　健・八木原寛・2011 年東北地方太平洋沖地震緊急観測グループ (2021). 東北地方中南部における臨時地震観測, 東北地域災害科学研究, _58_, 19-24. 
 
 春山太一・小菅正裕・__前田拓人__ (2020). 
 火山性低周波地震に見られる特徴的地震波形：数値モデリングに基づく生成機構の検討,
-東北地域災害科学研究, _56_, 135-140. 
-[Article Link](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume56/56-25.pdf)
+東北地域災害科学研究, _56_, 135-140.   
+[(Article Link)](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume56/56-25.pdf)
 
 石田早祐美・__前田拓人__・小菅正裕 (2020).  
 地震波干渉法に基づく青森県周辺のレイリー波群速度分布とその周期依存性, 
-東北地域災害科学研究, _56_, 167-172. 
-[Article Link](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume56/56-31.pdf)
+東北地域災害科学研究, _56_, 167-172.   
+[(Article Link)](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume56/56-31.pdf)
 
 向井優理恵・古村孝志・__前田拓人__ (2018). 
 関東平野における長周期地震動増幅の特徴的方位依存性とその要因, 
 地震研究所彙報, _93_, 31--48. 
 <br/>
-[Article Link](http://www.eri.u-tokyo.ac.jp/BERI/pdf/IHO93203_02.pdf)
+[(Article Link)](http://www.eri.u-tokyo.ac.jp/BERI/pdf/IHO93203_02.pdf)
 
 今井健太郎・__前田拓人__・飯沼卓史・蝦名裕一・菅原大介・今村文彦・平川新 (2015). 
 組み合わせ最適化手法を利用した歴史津波の波源推定法—1611年慶長奥州地震の事例—, 
 東北地域災害科学研究, _51_, 139-144. 
 <br/>
-[Article Link](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume51/51-25.pdf)
+[(Article Link)](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume51/51-25.pdf)
 
 __Maeda, T.__, & K. Obara (2009). 
 Hypocenter distribution of deep low-frequency tremors in Nankai subduction zone, Japan, 
 _Report of the National Research Institute for Earth Science and Disaster Prevention_, _74_, 12--20. 
 <br/>
-[Article Link](http://dil-opac.bosai.go.jp/publication/nied_report/PDF/74/74-2maeda.pdf)
+[(Article Link)](http://dil-opac.bosai.go.jp/publication/nied_report/PDF/74/74-2maeda.pdf)
 
 __前田拓人__ (2007). 
 偏極方向と非等方多重散乱を考慮した3成分S波コーダエンベロープの数値合成, 
@@ -567,13 +567,13 @@ __前田拓人__ (2007).
 平成19年（2007年）能登半島地震合同余震観測, 
 地震研究所彙報, _82_, 225-233. 
 <br/>
-[Article Link](http://hdl.handle.net/2261/9302)
+[(Article Link)](http://hdl.handle.net/2261/9302)
 
 田中聡・浜口博之・山脇輝夫・西村太志・植木貞人・中道治久・宮町宏樹・筒井智樹・松尾のり道・及川純・大湊隆雄・宮岡一樹・鬼澤真也・森健彦・相澤幸司・中原恒・堀修一郎・佐藤俊也・河野俊夫・仁田交市・立花憲司・鍵山恒臣・萩原道徳・長田昇・井本良子・辻浩・岡田弘・前川徳光・鈴木敦生・小菅正裕・山本英和・佐野剛・奥田隆・山本圭吾・吉川慎・外輝明・松本聡・八木原寛・平野舟一郎・金尾正紀・巻和夫，小林徹，神出裕一郎，高橋透，鶴我佳代子，佐藤峰司，橋野弘憲，諏訪謡子，武田嘉人，山下哲央， Ulrich Wegler，内田直希，池田雅也・高橋努・__前田拓人__・馬渕弘靖・千田良道・相澤信吾・久野智晴・大谷佳子・山下幹也・小林勝幸・長濱庸介・平山繁幸・岩切誠一郎・伊藤壮介・吉川美由紀・中村めぐみ・大島光貴・森脇健 (2002). 
 岩手山における人工地震探査－観測および初動の読み取り－, 
 東京大学地震研究所彙報, _77_, 1--25. 
 <br/>
-[Article Link](http://hdl.handle.net/2261/13238)
+[(Article Link)](http://hdl.handle.net/2261/13238)
 
 ## Ohter Publications
 
