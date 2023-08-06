@@ -70,7 +70,8 @@ doi:[10.2208/kaigan.76.2_I_259](https://doi.org/10.2208/kaigan.76.2_I_259)
 <span class="award">AWARDED</span> 
 土井一生・__前田拓人__・釜井俊孝・王功輝 (2020), 
 地震波形記録による斜面崩壊の発生場所と発生形態の推定－2017年九州北部豪雨災害・日田市小野地区の斜面崩壊を例として－, 応用地質, _61_(_5_), 245-254, 
-doi:[10.5110/jjseg.61.245](https://doi.org/10.5110/jjseg.61.245)
+doi:[10.5110/jjseg.61.245](https://doi.org/10.5110/jjseg.61.245)   
+[__日本応用地質学会令和4年（2022）論文賞__](https://www.jseg.or.jp/02-committee/selection-papers.html)
 
 [64] 
 Yoshida, S., __Maeda, T.__, & Kato, N. (2020). Earthquake triggering model based on normal-stress-dependent Nagata law: application to the 2016 Mie offshore earthquake. _Earth, Planets and Space_, _72_(1), 141. doi:[10.1186/s40623-020-01272-5](https://doi.org/10.1186/s40623-020-01272-5).
