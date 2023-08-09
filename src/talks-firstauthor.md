@@ -4,7 +4,7 @@
 
 __前田拓人__, 地震・津波波動場の時空間状態を推定するためのアジョイント方程式の導出, 日本地球惑星科学連合2023年大会, SSS07-P17, 幕張, 2023-05-21 
 
-__Maeda, T.__, Forward/inverse problems and data assimilation in earthquake seismology, Japan Geocience Union Meeting 2023, MGI26-05, Makuhari, 2023-05-22. 
+<span class="invited">INVITED</span> __Maeda, T.__, Forward/inverse problems and data assimilation in earthquake seismology, Japan Geocience Union Meeting 2023, MGI26-05, Makuhari, 2023-05-22. 
 
 
 ## 2022

@@ -38,6 +38,7 @@ Although these thesis have been written in Japanese, they are both published in 
 * Apr. 2012 -- Mar. 2018 Assistant Professor, ERI, The University of Tokyo
 * Apr. 2018 -- Jul. 2021 Associate Professor, Graduate School of Science and Technology, Hirosaki University
 * Aug. 2021 -- Present&nbsp; Professor, Graduate School of Science and Technology, Hirosaki University
+* Apr. 2023 -- Present&nbsp; Director, Earthquake and volcano observatory, Graduate School of Science and Technology, Hirosaki University
 
 ## Society Memberships
 
