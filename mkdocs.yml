@@ -84,15 +84,15 @@ nav:
       - English: cv-e.md
       - 日本語版: cv-j.md
   - Resaerch: 
-      - Publications: pubs.md
-      - Presentations: presentations.md
-      - Open Codes: opencodes.md
+      - Publications | 論文 : pubs.md
+      - Presentations | 研究発表 : presentations.md
+      - Open Codes | ソフトウェア: opencodes.md
   - Education:
-      - Lectures: lectures.md
-      - Seismo Info: seismo-info.md
+      - Lectures | 講義: lectures.md
+      - Seismo Info | 地震の情報源　: seismo-info.md
   - Outreach: 
-      - Talks: outreach.md
-      - Media: media.md
+      - Talks | 一般向け講演: outreach.md
+      - Media | 取材: media.md
       - Movies: 
          - 2021-02-13 Off Fukushima: movies/2021-02-13.md
 #  - Projects: https://www.st.hirosaki-u.ac.jp/~tktmyd/dw/doku.php/ja/projects
