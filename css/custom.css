@@ -46,3 +46,33 @@ span.invited {
   font-size: 80%; 
   font-weight: bold;
 }
+
+span.pub_seminar {
+  background: peachpuff;    
+  border-radius: 10px;
+  font-family: sans-serif;
+  color: black;
+  padding: 4px 10px 4px 10px;
+  font-size: 80%; 
+  font-weight: bold;
+}
+
+span.pub_lecture {
+  background: rgb(232, 220, 242);    
+  border-radius: 10px;
+  font-family: sans-serif;
+  color: black;
+  padding: 4px 10px 4px 10px;
+  font-size: 80%; 
+  font-weight: bold;
+}
+
+span.pub_panel {
+  background: paleturquoise;    
+  border-radius: 10px;
+  font-family: sans-serif;
+  color: black;
+  padding: 4px 10px 4px 10px;
+  font-size: 80%; 
+  font-weight: bold;
+}
