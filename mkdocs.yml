@@ -24,9 +24,9 @@ theme:
   custom_dir:
     overrides
   features:
-    - navigation.sections
+#    - navigation.sections
     - navigation.tabs
-    - navigation.expand
+#    - navigation.expand
 
 extra_css:
   - "https://fonts.googleapis.com/earlyaccess/notosansjp.css"
@@ -79,28 +79,21 @@ extra_javascript:
   - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
 
 nav:
-  - Home:
-      - _:  index.md
+  - Home: index.md
   - CV:
       - English: cv-e.md
       - 日本語版: cv-j.md
-  - Publications:
-      - _ : pubs.md
-  - Talks: 
-      - First authored talks : talks-firstauthor.md
-      - Coauthored talks : talks-coauthor.md
-      - Outreach activities : talks-outreach.md
-  - Open Codes: 
-      - Open Codes : opencodes.md
-  - Lectures: 
-      - 講義: lectures.md
-  - Seismo Info: 
-      - 地震（学）の情報源: seismo-info.md
-  - Movies: 
-      - 2021-02-13 Off Fukushima: movies/2021-02-13.md
-  - Projects: 
-      - https://www.st.hirosaki-u.ac.jp/~tktmyd/dw/doku.php/ja/projects
-#  - Lectures:
-#      - _: lectures.md
-  - Labo:
-      - https://www.st.hirosaki-u.ac.jp/~seismolab/dw/doku.php
+  - Resaerch: 
+      - Publications: pubs.md
+      - Presentations: presentations.md
+      - Open Codes: opencodes.md
+  - Education:
+      - Lectures: lectures.md
+      - Seismo Info: seismo-info.md
+  - Outreach: 
+      - Talks: outreach.md
+      - Media: media.md
+      - Movies: 
+         - 2021-02-13 Off Fukushima: movies/2021-02-13.md
+#  - Projects: https://www.st.hirosaki-u.ac.jp/~tktmyd/dw/doku.php/ja/projects
+  - Seismological Laboratory: https://www.st.hirosaki-u.ac.jp/~seismolab/dw/doku.php
