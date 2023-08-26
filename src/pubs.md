@@ -16,46 +16,51 @@ Springer.
 
 ## Peer-Reviewed Articles 
 
-[76]
+[77]
 天坂登宇伊・__前田拓人__・髙野智也 (2023). 
 深発地震の地震波動伝播シミュレーションに基づく北海道下マントルウェッジの内部減衰構造, 地震2, _76_, 93-107, doi:[10.4294/zisin.2022-19](https://doi.org/10.4294/zisin.2022-19).
 
-[75]
+[76]
 寶川瑠璃・__前田拓人__・髙野智也・野口科子 (2023). 
 コーダ波振幅に基づく青森県周辺の複数観測網におけるサイト増幅特性空間分布の推定, 地震2, _76_, 77-92, doi:[10.4294/zisin.2022-18](https://doi.org/10.4294/zisin.2022-18).
 
-[74] 
+[75] 
 Onodera, K., __Maeda, T.__,Nishida, K., Kawamura, T., Margerin, L., Menina, S., Lognonne, P. H., & Banerdt, W. B. (2023). 
 Seismic scattering and absorption properties of Mars estimated through coda analysis on a long-period surface wave of S1222a marsquake. 
 _Geophysical Research Letters_, _50_(_13_), e2022GL102716, 
 doi:[10.1029/2022GL102716](https://doi.org/10.1029/2022GL102716). 
 
-[73] 
+[74] 
 Yoshimitsu, N., __Maeda, T.__, Sei, T. (2023). 
 Estimation of source parameters using a non-Gaussian probability density function in a Bayesian framework
 _Earth, Planets and Space_, _75_, 33. doi:[10.1186/s40623-023-01770-2](https://doi.org/10.1186/s40623-023-01770-2)
 
-[72] 
+[73] 
 Nardoni, C., De Siena, L., Magrini, F., Cammarano, F., __Maeda, T.__, & Mattei, E. (2023). 
 Earthquake characteristics and structural properties of the Southern Tyrrhenian basin from full seismic wave simulations,
 _Surveys in Geophysics_, doi:[10.1007/s10712-023-09769-w](https://doi.org/10.1007/s10712-023-09769-w)
 
-[71] 
+[72] 
 Onodera, K., Kawamura, T., Tanaka, S., Ishihara, Y., & __Maeda, T.__ (2022). 
 Quantitative evaluation of the lunar seismic scattering and comparison between the Earth, Mars, and the Moon. 
 _Journal of Geophysical Research_: _Planets_, _127_, e2022JE007558. doi:[10.1029/2022JE007558](https://doi.org/10.1029/2022JE007558).
 
-[70] 
+[71] 
 Takeo, A., Nishida, K., Aoyama, H., Ishise, M., Kai, T., Kurihara, R., __Maeda, T.__, Mizutani, Y., Nakashima, Y., Nagahara, S., Wang, X., Ye, L., Akuhara, T., and Aoki, Y. (2022). 
-S-wave modelling of the Showa-Shinzan lava dome in Usu Volcano, Northern Japan, from seismic observations, _Geophysical Journal International_, _230_(_3_), 1662-1678. doi:[10.1093/gji/ggac111](https://doi.org/10.1093/gji/ggac111).
+S-wave modelling of the Showa-Shinzan lava dome in Usu Volcano, Northern Japan, from seismic observations. 
+_Geophysical Journal International_, _230_(_3_), 1662-1678. doi:[10.1093/gji/ggac111](https://doi.org/10.1093/gji/ggac111).
 
+[70]
+Amezawa, Y., __Maeda, T.__, & Kosuga, M. (2021). Migration diffusivity as a controlling factor in the duration of earthquake swarms, 
+_Earth, Planets and Space_, _73_, 148. doi:[10.1186/s40623-021-01480-7](https://doi.org/10.1186/s40623-021-01480-7). 
 
 [69] 
-Onodera, K., Kawamura, T., Tanaka, S., Ishihara, Y., & __Maeda, T.__ (2021). Numerical simulation of Lunar seismic wave propagation: Investigation of subsurface scattering properties near Apollo 12 landing site. _Journal of Geophysical Research: Planets_, _126_(_3_). e2020JE006406. doi:[10.1029/2020je006406](https://doi.org/10.1029/2020je006406).
+Furumura, T., & __Maeda, T.__ (2021). High-resolution source imaging based on time-reversal wave propagation simulations using assimilated dense seismic records. _Geophysical Journal International_, _225_(_1_), 140–157. doi:[10.1093/gji/ggaa586](https://doi.org/10.1093/gji/ggaa586).
 
 
 [68] 
-Furumura, T., & __Maeda, T.__ (2021). High-resolution source imaging based on time-reversal wave propagation simulations using assimilated dense seismic records. _Geophysical Journal International_, _225_(_1_), 140–157. doi:[10.1093/gji/ggaa586](https://doi.org/10.1093/gji/ggaa586).
+Onodera, K., Kawamura, T., Tanaka, S., Ishihara, Y., & __Maeda, T.__ (2021). Numerical simulation of Lunar seismic wave propagation: Investigation of subsurface scattering properties near Apollo 12 landing site. _Journal of Geophysical Research: Planets_, _126_(_3_). e2020JE006406. doi:[10.1029/2020je006406](https://doi.org/10.1029/2020je006406).
+
 
 [67] 
 Shiina, T., __Maeda, T.__, Kano, M., Kato, A., & Hirata, N. (2021). An optimum 2D seismic-wavefield reconstruction in densely and nonuniformly distributed stations: The Metropolitan Seismic Observation Network in Japan. _Seismological Research Letters_. doi:[10.1785/0220200196](https://doi.org/10.1785/0220200196). 
@@ -521,7 +526,6 @@ _The Science Reports of the Tohoku University. Fifth Series, Tohoku Geophysical 
 
 増永仁・__前田拓人__・髙野智也 (2023). 3次元不均質速度構造モデルを用いた青森県周辺の地震に対するCMT解推定, 東北地域災害科学研究, __59__, 25-30．   
 [(Article Link)](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume59/59-5.pdf)
-
 
 __前田拓人__・齊藤竜彦・馬場俊孝 (2022). 津波即時予測手法の高度化のための地震・津波統合数値シミュレーション, 
 月刊地球, _44_(_8_), 374-380. 

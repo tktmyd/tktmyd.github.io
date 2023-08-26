@@ -1,5 +1,16 @@
 # Co-authored presentations
 
+## 発表予定
+
+大和柚季・__前田拓人__・髙野智也, 2022年8月に青森県で発生した集中豪雨に伴う地震動, 日本地震学会2023年秋季大会, 横浜. 
+
+上野暁・髙野智也・__前田拓人__, 風に起因する地震波ノイズレベルの変動：青森県周辺における検討, 日本地震学会2023年秋季大会, 横浜. 
+
+松田航洋・吉光奈奈・__前田拓人__・行竹洋平, 小空間スケールにおける散乱減衰構造の推定に向けた解析法の検討
+
+中川茂樹・青山裕・高橋浩晃・__前田拓人__・山本希・鶴岡弘・青木陽介・内田直希・前田裕太・大見士朗・中道治久・大久保慎人・松島健・八木原寛・汐見勝彦・植平賢司・上田英樹・下山利浩・溜渕功史・大竹和生・本多亮・関根秀太郎, マルチプラットフォーム次世代WINシステムの開発(3), 日本地震学会2023年秋季大会, 横浜. 
+
+
 ## 2023
 
 森田寅靖・__前田拓人__・高野 智也, 地震動即時予測を目指したアジョイント方程式に基づく地震波動場の推定ー二次元SH波における数値実験ー, 日本地球惑星科学連合2023年大会, SSS07-P18, 幕張, 2023-05-21 
@@ -90,7 +101,7 @@ S波スプリッティング解析による東北地方の地震波速度異方�
 
 中川茂樹・青山裕・高橋浩晃・__前田拓人__・内田直希・山本希・大竹和生・鶴岡弘・青木陽介・前田裕太・大見士朗・中道治久・大久保慎人・松島健・八木原寛・汐見勝彦・植平賢司・上田英樹・宮岡一樹・溜渕功史・本多亮・関根秀太郎, マルチプラットフォーム次世代WINシステムの開発(1), 日本地震学会2021年度秋季大会, 2021-10-15.  
 
-岡田知己・中山貴史・平原聡・堀内茂木・勝俣啓・大園真子,・小菅正裕・__前田拓人__・山中佳子・片尾浩・松島健・八木原寛・年東北地方太平洋沖地震緊急観測グループ, 東北地方中南部における地震活動（序報）, 日本地震学会2021年度秋季大会, 2021-10-15.  
+岡田知己・中山貴史・平原聡・堀内茂木・勝俣啓・大園真子,・小菅正裕・__前田拓人__・山中佳子・片尾浩・松島健・八木原寛・2011年東北地方太平洋沖地震緊急観測グループ, 東北地方中南部における地震活動（序報）, 日本地震学会2021年度秋季大会, 2021-10-15.  
 
 小野寺圭佑・川村太一・田中智・石原吉明・**前田拓人**, 三次元地震波伝搬シミュレーションによる月地殻の散乱特性評価, 日本惑星科学会2021年秋期講演会, S05, 2021-09-16. 
 
@@ -100,6 +111,8 @@ S波スプリッティング解析による東北地方の地震波速度異方�
 
 Onodera, K., Kawamura, T., Tanaka, S., Ishihara, Y., and **Maeda, T.**, Numerical simulation of lunar seismic wave: Updated scattering structure around Apollo12 landing site from coda fitting approach, Japan Geoscience Union Meeting 2021, PPS05-01, 2021-06-04. 
 
+
+山田真澄・**前田拓人**, 2020年レバノンの爆発事故の地震波形記録, 東京大学地震研究所共同利用研究集会「地表・海底の振動記録から探る地震以外の諸現象」, 2021-03-30. 
 
 ## 2020
 
@@ -119,7 +132,6 @@ Onodera, K., Kawamura, T., Tanaka, S., Ishihara, Y., and **Maeda, T.**, Scatteri
 
 松野有希・小菅正裕・**前田拓人**, 北海道雌阿寒岳における深部・浅部低周波地震活動, 東北地域災害科学研究集会, 2020-12-26. 
 
-山田真澄・**前田拓人**, 2020年レバノンの爆発事故の地震波形記録, 東京大学地震研究所共同利用研究集会「地表・海底の振動記録から探る地震以外の諸現象」, 2021-03-30. 
 
 ## 2019
 
@@ -786,6 +798,7 @@ Noguchi, S., Maeda, T. and T. Furumura, Computer simulation of trench trapped Ra
 沿岸の津波痕跡高からの推定―, 日本地震学会2010年秋季大会, 広島, 2010-10.
 
 Furumura, T., K. Imai, and **T. Maeda**, Tsunami simulation for the 1707 Hoei earthquake: A revised source model and tsunami inundation to onshore lakes, 7th ACES international workshop, Otaru, 2010-10.
+
 Noguchi, S., **T. Maeda**, and T. Furumura, FDM simulatino of trench trapped Rayleigh Waves, 7th ACES international workshop, Otaru, 2010-10.
 
 Takemoto, T., T. Furumura, **T. Maeda**, and S. Noguchi, Site amplification from coda waves in Japan, 7th ACES international workshop, Otaru, 2010-10.

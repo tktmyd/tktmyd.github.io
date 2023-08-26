@@ -17,7 +17,7 @@ I am studying wave propagation problems in seismology. I am particularly interes
 - Real-time monitoring/forecasting of tsunami and seismic waves
 
 
-地震学のうち，地震・津波波動伝播とその周辺の研究を行っています．特に以下の項目に興味を持っています：
+複雑媒質中における地震・津波波動伝播とその応用についての研究を行っています．特に以下の項目に興味を持っています：
 
 - 地球内部構造をより良く知るための地震津波波形解析手法の開発
 - 地震波伝播の大規模数値シミュレーション
