@@ -83,18 +83,19 @@ nav:
   - CV:
       - English: cv-e.md
       - 日本語版: cv-j.md
-  - Resaerch: 
+  - Research: 
       - Publications | 論文 : pubs.md
       - Presentations | 研究発表 : presentations.md
       - Open Codes | ソフトウェア: opencodes.md
   - Education:
       - Lectures | 講義: lectures.md
       - Thesis | 指導学位論文: thesis.md
-      - Seismo Info | 地震の情報源: seismo-info.md
+      - Seismological Laboratory: https://www.st.hirosaki-u.ac.jp/~seismolab/dw/doku.php
   - Outreach: 
       - Talks | 一般向け講演: outreach.md
       - Media | 取材: media.md
       - Movies: 
          - 2021-02-13 Off Fukushima: movies/2021-02-13.md
+      - Seismo Info | 地震の情報源: seismo-info.md
 #  - Projects: https://www.st.hirosaki-u.ac.jp/~tktmyd/dw/doku.php/ja/projects
-  - Seismological Laboratory: https://www.st.hirosaki-u.ac.jp/~seismolab/dw/doku.php
+  
