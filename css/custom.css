@@ -76,3 +76,23 @@ span.pub_panel {
   font-size: 80%; 
   font-weight: bold;
 }
+
+span.thesis_main {
+  background: peachpuff;  
+  border-radius: 10px;
+  font-family: sans-serif;
+  color: black;
+  padding: 4px 10px 4px 10px;
+  font-size: 80%; 
+  font-weight: bold;
+}
+
+span.thesis_sub {
+  background: paleturquoise;    
+  border-radius: 10px;
+  font-family: sans-serif;
+  color: black;
+  padding: 4px 10px 4px 10px;
+  font-size: 80%; 
+  font-weight: bold;
+}
