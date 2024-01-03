@@ -500,6 +500,11 @@ Three-dimensional velocity structure in the source region of the Noto Hanto Eart
 _Earth, Planets and Space_, _60_, 105-110, 
 doi:[10.1186/BF03352769](https://doi.org/10.1186/BF03352769). 
 
+Sakai, S., Kato, A., Iidaka, T., Iwasaki, T., Kurashimo, E., Igarashi, T., Hirata, N., Kanazawa, T., & Group for the aftershock observations of the 2007 Noto Hanto Earthquake (2008). 
+Highly resolved distribution of aftershocks of the 2007 Noto Hanto Earthquake by a dense seismic observation, 
+_Earth, Planets and Space_, _60_, 83-88. 
+doi:[10.1186/BF03352765](https://doi.org/10.1186/BF03352765). 
+
 Research group for deep structure of Nagamachi-Rifu Fault (2002). 
 Seismic reflection survey in Nagamachi-Rifu Fault, Sendai, Northeastern Japan, 
 _The Science Reports of the Tohoku University. Fifth Series, Tohoku Geophysical Journal_, _36_, 311-356.    
