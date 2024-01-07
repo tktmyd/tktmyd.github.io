@@ -15,7 +15,7 @@ environment in 3D and 2D (P-SV or SH) media.
 This package also provides a set of tools for visualizing/converting simulation
 output.
 
-The code is available at [github](https://github.com/tktmyd/OpenSWPC/). The [online documentations](https://tktmyd.github.io/OpenSWPC/) are available in English and Japanese
+The code is available at [github](https://github.com/tktmyd/OpenSWPC/). The [online documentations](https://OpenSWPC.github.io/) are available in English and Japanese
 
 
 ## TDAC
