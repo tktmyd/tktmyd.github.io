@@ -70,7 +70,6 @@ markdown_extensions:
       options:
         custom_icons:
           - docs/icons
-  - fontawesome_markdown
   - attr_list
   - markdown.extensions.def_list
 
@@ -96,6 +95,7 @@ nav:
       - Media | 取材: media.md
       - Movies: 
          - 2021-02-13 Off Fukushima: movies/2021-02-13.md
+         - 2024-01-01 Noto Peninsula: movies/2024-01-01.md
       - Seismo Info | 地震の情報源: seismo-info.md
 #  - Projects: https://www.st.hirosaki-u.ac.jp/~tktmyd/dw/doku.php/ja/projects
   
