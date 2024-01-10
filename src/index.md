@@ -30,7 +30,7 @@ I am studying wave propagation problems in seismology. I am particularly interes
 
 ### 2023-07
 
-- 講演会『日本海中部地震から40年 防災科学の進歩』にて[講演](./talks-outreach.md)しました．
+- 講演会『日本海中部地震から40年 防災科学の進歩』にて[講演](./outreach.md)しました．
 
 ### 2023-03
 
