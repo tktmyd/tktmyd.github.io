@@ -16,13 +16,22 @@ Springer.
 
 ## Peer-Reviewed Articles 
 
+[78]
+Sandanbata, O., Satake, K., Takemura, S., Watada, S., __Maeda ,T.__, & Kubota, T. (2024). 
+Enigmatic tsunami waves amplified by repetitive source events near Sofugan volcano, Japan. 
+_Geophysical Research Letters_, in press.  
+doi:[10.1029/2023GL106949](https://doi.org/10.1029/2023GL106949)  
+[Preprint](https://essopenarchive.org/users/667904/articles/674772-enigmatic-tsunami-waves-amplified-by-repetitive-source-events-near-sofugan-volcano-japan)
+
 [77]
 天坂登宇伊・__前田拓人__・髙野智也 (2023). 
-深発地震の地震波動伝播シミュレーションに基づく北海道下マントルウェッジの内部減衰構造, 地震2, _76_, 93-107, doi:[10.4294/zisin.2022-19](https://doi.org/10.4294/zisin.2022-19).
+深発地震の地震波動伝播シミュレーションに基づく北海道下マントルウェッジの内部減衰構造. 
+地震2, _76_, 93-107, doi:[10.4294/zisin.2022-19](https://doi.org/10.4294/zisin.2022-19).
 
 [76]
 寶川瑠璃・__前田拓人__・髙野智也・野口科子 (2023). 
-コーダ波振幅に基づく青森県周辺の複数観測網におけるサイト増幅特性空間分布の推定, 地震2, _76_, 77-92, doi:[10.4294/zisin.2022-18](https://doi.org/10.4294/zisin.2022-18).
+コーダ波振幅に基づく青森県周辺の複数観測網におけるサイト増幅特性空間分布の推定.  
+地震2, _76_, 77-92, doi:[10.4294/zisin.2022-18](https://doi.org/10.4294/zisin.2022-18).
 
 [75] 
 Onodera, K., __Maeda, T.__,Nishida, K., Kawamura, T., Margerin, L., Menina, S., Lognonne, P. H., & Banerdt, W. B. (2023). 
