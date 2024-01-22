@@ -19,9 +19,7 @@ Springer.
 [78]
 Sandanbata, O., Satake, K., Takemura, S., Watada, S., __Maeda ,T.__, & Kubota, T. (2024). 
 Enigmatic tsunami waves amplified by repetitive source events near Sofugan volcano, Japan. 
-_Geophysical Research Letters_, in press.  
-doi:[10.1029/2023GL106949](https://doi.org/10.1029/2023GL106949)  
-[Preprint](https://essopenarchive.org/users/667904/articles/674772-enigmatic-tsunami-waves-amplified-by-repetitive-source-events-near-sofugan-volcano-japan)
+_Geophysical Research Letters_, _51_, e2023GL106949. doi:[10.1029/2023GL106949](https://doi.org/10.1029/2023GL106949)
 
 [77]
 天坂登宇伊・__前田拓人__・髙野智也 (2023). 
