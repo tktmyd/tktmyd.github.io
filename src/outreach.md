@@ -1,6 +1,8 @@
 
 # Outreach Activities | 一般向け講演・パネリストなど
 
+<span class="pub_seminar">講演</span>  **前田拓人**, 地震・津波研究の最前線から, 地震本部地域講演会 in 八戸 地震・津波を知ろう！備えよう！, 八戸市公民館ホール, 八戸市, 2024-02-04. 
+
 <span class="pub_seminar">講演</span>  **前田拓人**, 地震と津波の観測：あのころ，いま，そしてこれから, 講演会『日本海中部地震から40年 防災科学の進歩』, 弘前大学, 弘前市, 2023-07-19. 
 
 <span class="pub_lecture">模擬講義</span> **前田拓人**, 地面がゆれると地球がわかる, [夢ナビ講義](https://douga.yumenavi.info/Lecture/PublishDetail/2022001495), 2022年オンライン公開.

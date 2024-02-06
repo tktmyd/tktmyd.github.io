@@ -27,6 +27,13 @@ I am studying wave propagation problems in seismology. I am particularly interes
 
 ## Recent news | 最近のできごと
 
+### 2024-02
+
+- 地震本部地域講演会 in 八戸市で[講演](./outreach.md)しました．
+
+### 2024-01
+
+- 最近出版された論文 [Sandanbata et al. (2024 GRL)](./paper.md)について[プレスリリース](https://www.hirosaki-u.ac.jp/topics/92259/)を行いました．
 
 ### 2023-07
 

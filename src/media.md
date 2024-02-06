@@ -2,6 +2,20 @@
 
 （図版・動画のみ提供のものは含みません）
 
+県内の地震や津波のリスクを考える 専門家などの講演会 八戸, [NHK 青森 NEWS WEB](https://www3.nhk.or.jp/lnews/aomori/20240205/6080021776.html)
+
+八戸で講演会 地震太平洋側のリスク解説, 読売新聞（青森）, 2024-02-05. 
+<br>
+[オンライン版](https://www.yomiuri.co.jp/local/aomori/news/20240205-OYTNT50008/)
+
+津波の増幅現象 初立証, 陸奥新報，2024-01-27. 
+<br>
+[報道記事](https://www.st.hirosaki-u.ac.jp/wp-content/uploads/2024/01/240127.pdf)
+
+小さな津波 重なって最大60センチ, 東奥日報, 2024-01-29
+<br>
+[報道記事](https://www.st.hirosaki-u.ac.jp/wp-content/uploads/2024/01/240129.pdf)
+
 前田拓人さん（弘前大学）に聞く：＜東日本大震災から10年＞もし東北地方太平洋沖地震が起きていなければ、地震研究はどうなっていた？, 宮城の新聞, 2021-10-08. 
 <br>[インタビュー記事](http://shinbun.fan-miyagi.jp/article/article_20211007.php)
 
