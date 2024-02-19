@@ -533,6 +533,8 @@ _The Science Reports of the Tohoku University. Fifth Series, Tohoku Geophysical 
 
 ## Articles without review
 
+片山藍貴・__前田拓人__・髙野智也 (2023). 日本海東縁で発生する地震の周波数特性―規模を考慮したFrequency Index解析に基づく検討―, 東北地域災害科学研究, __60__, 印刷中. 
+
 渡部大地・__前田拓人__・髙野智也 (2023). 2011年東北地方太平洋沖地震による地震の誘発現象の力学的検討, 東北地域災害科学研究, __59__, 1-6．   
 [(Article Link)](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume59/59-1.pdf)
 

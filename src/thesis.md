@@ -1,6 +1,24 @@
 # 指導学位論文
 
-(先頭の<span class="thesis_main">主</span> / <span class="thesis_sub" >副</span>は主指導あるいは主査か副指導あるいは副査の別です．ただし，研究室以外で副指導・副査を担当した論文は含みません．)
+(先頭の<span class="thesis_main">主</span> / <span class="thesis_sub" >副</span>は主指導あるいは主査か副指導あるいは副査の別です．ただし，専門分野以外で副指導・副査を担当した論文は含みません．)
+
+## 2023年度
+
+### 修士論文
+
+- <span class="thesis_main">主</span> 地震波干渉法に基づく岩木山周辺における地下構造の長期間モニタリング
+- <span class="thesis_main">主</span> 日本海東縁で発生する地震の周波数特性―規模を考慮したFrequency Index解析に基づく検討―
+- <span class="thesis_main">主</span> 広帯域地震波形記録の粒子軌跡解析に基づく脈動起源の時空間変動―令和元年東日本台風への適用―
+
+### 卒業論文
+
+- <span class="thesis_main">主</span> 脈動振幅の長期間時空間変動解析
+- <span class="thesis_main">主</span> 深発地震に伴う顕著なsP波の特徴とその起源の検討
+- <span class="thesis_main">主</span> 東北日本背弧側における地震波ピーク遅延
+- <span class="thesis_main">主</span> 深層学習に基づく地震波検測技術の適用：内陸下の低周波地震への応用に向けて
+- <span class="thesis_main">主</span> 火星の表面波解析に向けて―定Q変換に基づく周波数分析―
+- <span class="thesis_sub" >副</span> 米国コロラド州のラトン盆地における地下注水場での地震波速度の時間変化
+- <span class="thesis_sub" >副</span> デコンボリューション解析による弘前大学理工2号館を伝わる地震波の検出
 
 ## 2022年度
 
