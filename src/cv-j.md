@@ -64,15 +64,16 @@
 * 特別研究員奨励費  [#03J07346](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-03J07346/) (2003--2005年度)
 * 科研費補助金（若手B）[#23740333](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23740333/) (2011--2013年度) 
 * 科研費補助金（若手B）[#15K16306](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-15K16306/) (2015--2017年度)
-* 科研費補助金（基盤C）[#19K04006](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19K04006) (2019--2023年度 予定)
+* 科研費補助金（基盤C）[#19K04006](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19K04006) (2019--2023年度)
+* 科研費補助金（基盤C）[#24K07183](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K07183) (2024--2027年度予定)
 
 ### 分担研究者
 
-* 科研費補助金（基盤B）[#22H01304](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H01304/)（2022--2025年度 予定）
-* 科研費補助金（基盤B）[#20H02409](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H02409/) (2020--2023年度 予定)
-* 科研費補助金（基盤B）[#19H02409](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19H02409/) (2019--2022年度 予定)
-* 科研費補助金（基盤B）[#16H03146](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-16H03146/) (2016--2019年度) 
 * 科研費補助金（基盤A）[#23244091](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23244091/) (2011--2013年度 ※部分参加）
+* 科研費補助金（基盤B）[#16H03146](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-16H03146/) (2016--2019年度) 
+* 科研費補助金（基盤B）[#19H02409](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19H02409/) (2019--2022年度)
+* 科研費補助金（基盤B）[#20H02409](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H02409/) (2020--2023年度)
+* 科研費補助金（基盤B）[#22H01304](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H01304/)（2022--2025年度 予定）
 
 ## その他学会等における活動
 

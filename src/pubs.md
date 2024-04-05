@@ -530,7 +530,6 @@ _The Science Reports of the Tohoku University. Fifth Series, Tohoku Geophysical 
 ハイパフォーマンスコンピューティングと計算科学シンポジウム論文集, _2012_, 23-31.    
 [(Article Link)](https://ci.nii.ac.jp/naid/170000069128)
 
-
 ## Articles without review
 
 片山藍貴・__前田拓人__・髙野智也 (2023). 日本海東縁で発生する地震の周波数特性―規模を考慮したFrequency Index解析に基づく検討―, 東北地域災害科学研究, __60__, 印刷中. 

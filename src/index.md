@@ -6,7 +6,6 @@ Professor, Graduate School of Science and Technology, Hirosaki University<br/>
 弘前大学[大学院理工学研究科](https://www.st.hirosaki-u.ac.jp)（[理工学部地球環境防災学科](https://www.st.hirosaki-u.ac.jp/~earthenv/)）教授<br/>
 〒036-8561 青森県弘前市文京町3
 
-
 ---
 ## Research Interests | 研究対象
 
