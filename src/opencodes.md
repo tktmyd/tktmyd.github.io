@@ -4,8 +4,8 @@ All of the following codes are open to the public with the MIT license.
 
 ## OpenSWPC
 
-![logo-swpc](https://github.com/tktmyd/OpenSWPC/raw/master/doc/md/fig/logo_h.png)
-![demo-swpc](https://www.st.hirosaki-u.ac.jp/~tktmyd/dw/lib/exe/fetch.php/en/codes/swpc-demo.gif)
+![logo-swpc](https://openswpc.github.io/fig/logo_h.png)
+![demo-swpc](https://openswpc.github.io/fig/swpc-demo.gif)
 
 This software simulate seismic wave propagation by
 solving equations of motion with constitutive equations of elastic/viscoelastic
