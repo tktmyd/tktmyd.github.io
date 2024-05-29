@@ -32,7 +32,7 @@ I am studying wave propagation problems in seismology. I am particularly interes
 
 ### 2024-01
 
-- 最近出版された論文 [Sandanbata et al. (2024 GRL)](./paper.md)について[プレスリリース](https://www.hirosaki-u.ac.jp/topics/92259/)を行いました．
+- 最近出版された論文 [Sandanbata et al. (2024 GRL)](./pubs.md)について[プレスリリース](https://www.hirosaki-u.ac.jp/topics/92259/)を行いました．
 
 ### 2023-07
 
