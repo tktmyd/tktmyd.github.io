@@ -26,7 +26,7 @@
 <span class="pub_seminar">講演</span> <span class="pub_panel">パネリスト</span> **前田拓人**, 津波研究と即時予測技術の最前線, 日本海地震・津波調査プロジェクト『第1回 青森県地震・津波防災地域研究会』, 弘前市立中央公民館, 弘前市, 2018-12-17. 
 <br>[開催報告](http://www.eri.u-tokyo.ac.jp/project/Japan_Sea/chiiki_aomori.html)
 
-<span class="pub_seminar">講演</span> **前田拓人**, 津波発生予測と即時予測技術の最前線, 『地震災害軽減に関するシンポジウム』, 弘前大学理工学部, 弘前市, 2018-05-18. 
+<span class="pub_seminar">講演</span> **前田拓人**, 津波発生予測と即時予測技術の最前線, 『地震災害軽減に関するシンポジウム』, 弘前大学理工学部, 弘前市, 2018-05-18. 
 <br>[開催報告](http://www.hirosaki-u.ac.jp/34883.html)
 
 <span class="pub_seminar">講演</span>  **前田拓人**, 「ゆれ」の科学～海域稠密観測が地震・津波波動伝播研究にもたらす未来～, 

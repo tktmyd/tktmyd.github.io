@@ -2,7 +2,7 @@
 
 ## 2024
 
-__Takuto Maeda__, Estimation of the current tsunami wavefield: Challenges based on data assimilation techniques,, Professor Kenji Satake's Retierment Symposium, Tokyo, 2024-06-01. 
+__Takuto Maeda__, Estimation of the current tsunami wavefield: Challenges based on data assimilation techniques, The International Workshop on Mega Earthquakes and Tsunamis--Progress in 20 Years since the 2004 Sumatra-Andaman Earthquake and Future Perspectives, Tokyo, 2024-06-02. 
 
 三反畑修・佐竹健治・武村俊介・綿田辰吾・__前田拓人__・久保田達矢, 2023年10月鳥島近海津波：連続的な津波発生プロセスによる波高増幅現象, 日本地球惑星科学連合2024年大会, HDs11-145, 幕張, 2024-05-31.  
 
@@ -140,6 +140,8 @@ S波スプリッティング解析による東北地方の地震波速度異方�
 
 ## 2021
 
+**前田拓人**, 地震計で聞く音, 東京大学地震研究所共同利用研究集会「地表・海底の振動記録から探る地震以外の諸現象」, 2021-03-30. 
+
 行竹洋平・鵜川元雄・栗田敬・小菅正裕・**前田拓人**, 箱根火山深部ハーモニック微動に対する数値モデリング, 2021年度日本火山学会秋期大会, 2021-10-20. 
 
 雨澤勇太・**前田拓人**・小菅正裕・高野智也, 森吉山の群発地震における地震活動および波形相関の時空間変化，日本地震学会2021年度秋季大会, 2021-10-14.
@@ -172,7 +174,6 @@ Onodera, K., Kawamura, T., Tanaka, S., Ishihara, Y., and **Maeda, T.**, Numerica
 
 **前田拓人**・齊藤竜彦・馬場俊孝, 津波即時予測実験のための現実的全波動数値シミュレーション, 東京大学地震研究所共同利用研究集会「固体地球の多様な波動現象へのアプローチ：多量データ解析と大規模計算を両輪に」, 2020-12-21. 
 
-**前田拓人**, 地震計で聞く音, 東京大学地震研究所共同利用研究集会「地表・海底の振動記録から探る地震以外の諸現象」, 2021-03-30. 
 
 古村 孝志・**前田 拓人**, 地震観測データと逆伝播計算のデータ同化に基づく震源即時推定, JpGU-AGU Joint Meeting 2020, 2020-07-12. 
 
