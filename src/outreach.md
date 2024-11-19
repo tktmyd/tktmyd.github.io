@@ -1,14 +1,17 @@
 
 # Outreach Activities | 一般向け講演・パネリストなど
 
+<span class="pub_seminar">講演</span> **前田拓人**, 地震を学ぶ、地震に学ぶ, [令和6年度防災・気候講演会 〜自然災害から身を守るために〜](https://www.data.jma.go.jp/aomori/pub-relations/pdf/info/2024/20241109_pickup_hirosaki.pdf),  弘前市立中央公民館岩木館, 弘前市, 2024-11-09. 
+
+<span class="pub_lecture">講義</span> **前田拓人**, 地震・津波対策, 青森県消防学校第42回警防科, 青森市, 2024-10-15. 
+
 <span class="pub_seminar">講演</span>  **前田拓人**, 地震・津波研究の最前線から, 地震本部地域講演会 in 八戸 地震・津波を知ろう！備えよう！, 八戸市公民館ホール, 八戸市, 2024-02-04. 
 
 <span class="pub_seminar">講演</span>  **前田拓人**, 地震と津波の観測：あのころ，いま，そしてこれから, 講演会『日本海中部地震から40年 防災科学の進歩』, 弘前大学, 弘前市, 2023-07-19. 
 
 <span class="pub_lecture">模擬講義</span> **前田拓人**, 地面がゆれると地球がわかる, [夢ナビ講義](https://douga.yumenavi.info/Lecture/PublishDetail/2022001495), 2022年オンライン公開.
 
-<span class="pub_seminar">講演</span>  **前田拓人**, 早く・正しく：地震波・津波即時予測の挑戦, 2021年度秋季大会一般公開セミナー「東北地方太平洋沖地震10年と地震研究」, オンライン, 2021-10-17. 
-<br>[イベントページ](https://www.zisin.jp/event/openseminar2021.html)
+<span class="pub_seminar">講演</span>  **前田拓人**, 早く・正しく：地震波・津波即時予測の挑戦, [2021年度秋季大会一般公開セミナー「東北地方太平洋沖地震10年と地震研究」](https://www.zisin.jp/event/openseminar2021.html), オンライン, 2021-10-17. 
 
 <span class="pub_seminar">講演</span>  **前田拓人**, 地震の科学, 弘前大学リレーシンポジウム第1回, 土手町コミュニティパーク, 弘前市, 2021-01-26. 
 <br>[見逃し配信](http://applestream.jp/7228/)
