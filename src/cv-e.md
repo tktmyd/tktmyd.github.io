@@ -1,18 +1,17 @@
 # Curriculum Vitae
 
 ## Social Links
-<html><a href="https://scholar.google.com/citations?user=Ix6lzUQAAAAJ" target="_new" title="Google Scholar"><img src="../icons/ai/google-scholar-square.svg" width="40"></img>
-</a></html>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<html><a href="http://orcid.org/0000-0002-8861-4597" target="_new" title="ORCiD"><img src="../icons/ai/orcid.svg" width="40"></img>
-</a></html>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<html><a href="http://www.researcherid.com/rid/E-5332-2013" target="_new" title="ResearcherID/Publons"><img src="../icons/ai/researcherid-square.svg" width="40"></img></a></html>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<html><a href="https://www.researchgate.net/profile/Takuto_Maeda" target="_new" title="ResearchGate"><img src="../icons/ai/researchgate-square.svg" width="40"></img></a></html>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<html><a href="https://github.com/tktmyd" target="_new" title="github"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"></img></a></html>
-&nbsp;&nbsp;&nbsp;&nbsp;
+
+<html>
+<a href="https://scholar.google.com/citations?user=Ix6lzUQAAAAJ" target="_new" title="Google Scholar">
+<img src="../icons/ai/google-scholar-square.svg" width="40">
+</a>
+<a href="http://orcid.org/0000-0002-8861-4597" target="_new" title="ORCiD">
+<img src="../icons/ai/orcid.svg" width="40">
+</a>
+<a href="https://github.com/tktmyd" target="_new" title="github"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40">
+</a>
+</html>
 
 ## Education
 
