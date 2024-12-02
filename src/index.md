@@ -26,6 +26,14 @@ I am studying wave propagation problems in seismology. I am particularly interes
 
 ## Recent news | 最近のできごと
 
+### 2024-11 
+
+- 気象庁と弘前市による防災・気候講演会で[講演](./outreach.md)しました．
+
+### 2024-10
+
+- 青森県消防学校で[講義](./outreach.md)を行いました．
+
 ### 2024-02
 
 - 地震本部地域講演会 in 八戸市で[講演](./outreach.md)しました．
