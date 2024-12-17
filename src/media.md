@@ -2,14 +2,17 @@
 
 （図版・動画のみ提供のものは含みません）
 
+「北海道・三陸沖後発地震注意情報」　運用開始から２年, ABA青森朝日放送, 2024-12-16.   
+[オンライン版](https://www.youtube.com/watch?v=g0XYgj3PcUQ)
+
 “陸奥湾” 震源の大地震が起きたら…今私たちができる備え, ABA青森朝日放送, 2024-11-28.   
 [オンライン版](https://www.youtube.com/watch?v=WxDE-mVDciU)
 
 陸奥湾震源の地震「緊急地震速報」未発表だったのはなぜ？特徴の1つ「内陸地震」とは？専門家の分析は…, ATV青森テレビ, 2024-11-21.    
-[オンライン版](https://newsdig.tbs.co.jp/articles/atv/1569729?display=1)
+[オンライン版](https://newsdig.tbs.co.jp/articles/-/1569729)
 
 90年ぶり「陸奥湾」で揺れ伴う「マグニチュード5以上」の地震　震度4が1週間で『2度』有識者は前回同様の「内陸の地震」と指摘 青森県,  ATV青森テレビ, 2024-11-20.   
-[オンライン版](https://newsdig.tbs.co.jp/articles/atv/1567096?display=1_)
+[オンライン版](https://newsdig.tbs.co.jp/articles/-/1567096)
 
 陸奥湾震源でM5以上の地震は90年ぶり　平内町などで最大震度4, ABA青森朝日放送, 2024-11-20.   
 [オンライン版](https://www.aba-net.com/news/news-131476.html)

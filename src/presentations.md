@@ -2,6 +2,14 @@
 
 ## 2024
 
+Akifumi Takayama, Yasunori Sawaki, Yihuan Ruan, Yoshihiro Ito, __Takuto Maeda__4__ and Takuo Shibutani, 
+Relationship between shear-wave velocity anomalies and spatial variations in deep tectonic tremor activity around the plate interface in the Nankai trough subduction zone, 
+AGU Fall Meeting 2024, S43D-3480, Washington D.C., 2024-12-13. 
+
+Osamu Sandanbata, Kenji Satake, Shunsuke Takemura, Shingo Watada, __Takuto Maeda__ and Tatsuya Kubota, 
+Enigmatic tsunami waves amplified by repetitive source events near the Sofu seamount, south of Japan, 
+AGU Fall Meeting 2024, V01-19, Washington D.C., 2024-12-09.
+
 野口 科子・笠原 敬司・小菅 正裕・__前田 拓人__, 
 北海道函館市付近における浅部の低周波地震と深部の高周波地震：周波数特性の定量的指標を用いた評価, 
 日本地震学会2024年度秋季大会, S09-01, 新潟, 2024-10-21. 
