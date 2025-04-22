@@ -2,7 +2,7 @@
 
 ## 2024
 
-Akifumi Takayama, Yasunori Sawaki, Yihuan Ruan, Yoshihiro Ito, __Takuto Maeda__4__ and Takuo Shibutani, 
+Akifumi Takayama, Yasunori Sawaki, Yihuan Ruan, Yoshihiro Ito, __Takuto Maeda__ and Takuo Shibutani, 
 Relationship between shear-wave velocity anomalies and spatial variations in deep tectonic tremor activity around the plate interface in the Nankai trough subduction zone, 
 AGU Fall Meeting 2024, S43D-3480, Washington D.C., 2024-12-13. 
 
