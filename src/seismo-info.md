@@ -24,9 +24,6 @@
 
 :    メカニズム解のおそらく一番わかりやすい解説．ほかにも[いくつかの解説](https://www.data.jma.go.jp/svd/eqev/data/mech/index.html)が掲載されています．
 
-[関西なまずの会 地震学基礎講座](http://ss431057.stars.ne.jp/lecture.html)
-:    一般向けの解説．
-
 ## 地震情報の閲覧と検索：日本国内
 
 [気象庁 地震情報](https://www.jma.go.jp/bosai/map.html#contents=earthquake_map){target=_blank}
@@ -51,7 +48,7 @@
 
 [防災科学技術研究所 Hi-net AQUA CMTカタログ](https://www.hinet.bosai.go.jp/AQUA/aqua_catalogue.php?LANG=ja){target=_blank}
 
-:    同じく防災科研が定常的に決めているカタログ．F-netとは用いている地震観測網データが異なり，Hi-netのほうが観測点が多い．しかし，F-netは定常的に人間がクオリティチェックを行うのに対し，Hi-netは（基本）自動決定のようです．一方，地震直後にはHi-netのほうが早く情報がアップデートされる傾向にあるようです．
+:    同じく防災科研が定常的に決めているカタログ．F-netとは用いている地震観測網データが異なり，Hi-netのほうが観測点が多い．しかし，F-netは定常的に人間がクオリティチェックを行っているのに対し，Hi-net AQUA は基本的に自動決定です．
 
 ## 地震情報の閲覧と検索：海外
 
