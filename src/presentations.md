@@ -11,6 +11,10 @@ EGU General Assembly 2025, Vienna, EGU25-3990, 2025-04-28.
 東北地方内陸部で発生した小規模地震のローカルマグニチュードの不確実性,
 令和6年度東北地域災害科学研究集会, 鶴岡, 2024-12-26.
 
+Akifumi Takayama, Yasunori Sawaki, Yihuan Ruan, Yoshihiro Ito, __Takuto Maeda__ and Takuo Shibutani,
+Relationship between shear-wave velocity anomalies and spatial variations in deep tectonic tremor activity around the plate interface in the Nankai trough subduction zone,
+AGU Fall Meeting 2024, S43D-3480, Washington D.C., 2024-12-13.
+
 小菅正裕・__前田拓人__,
 Frequency Index を介した応力降下量の推定とそれに基づく内陸地震活動の特徴把握,
 東京大学地震研究所共同利用研究集会『大気・海洋・固体地球の波形解剖学：新たな海陸高密度観測に基づく高分解能イメージングと震源過程解析』, S24-11, 東京, 2024-12-24.
