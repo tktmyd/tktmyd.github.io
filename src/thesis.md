@@ -2,6 +2,24 @@
 
 (先頭の<span class="thesis_main">主</span> / <span class="thesis_sub" >副</span>は主指導あるいは主査か副指導あるいは副査の別です．ただし，専門分野以外で副指導・副査を担当した論文は含みません．)
 
+## 2024年度
+
+### 修士論文
+
+- <span class="thesis_main">主</span> 風により生成された地震波ノイズ—東北地方北部における検討—
+- <span class="thesis_main">主</span> 東北日本における小規模地震のマグニチュード推定の不確実性
+- <span class="thesis_main">主</span> 集中豪雨に起因する地震動—青森県および秋田県北部における解析—
+
+### 卒業論文
+
+- <span class="thesis_main">主</span> 令和6年能登半島地震津波における大陸反射波の数値的検討
+- <span class="thesis_main">主</span> 青森県傾斜計の広帯域地震計としての性能評価
+- <span class="thesis_main">主</span> マントルウェッジ内の高減衰構造がもたらす深発地震の特異な振幅分布
+- <span class="thesis_main">主</span> 多成分ひずみ計記録にみられる降雨応答の検討
+- <span class="thesis_main">主</span> 多成分ひずみ計に記録される地震動応答の検討
+- <span class="thesis_sub" >副</span> 日本周辺の深発地震における $b$ 値の深度依存性
+- <span class="thesis_sub" >副</span> 周波数帯域ごとに見た気仙沼沖の繰り返し地震波形の類似性
+
 ## 2023年度
 
 ### 修士論文
@@ -36,7 +54,7 @@
 - <span class="thesis_main">主</span> 地震動即時予測を目指したアジョイント法に基づく地震波動場の推定
 - <span class="thesis_main">主</span> 北日本火山周辺における低周波地震の周波数特性の網羅的解析
 - <span class="thesis_sub" >副</span> 青森県における風により励起される地震動
-- <span class="thesis_sub" >副</span> 2022年8月に青森県で発生した集中豪雨に伴う地震動	
+- <span class="thesis_sub" >副</span> 2022年8月に青森県で発生した集中豪雨に伴う地震動
 
 ## 2021年度
 
@@ -74,7 +92,6 @@
 - <span class="thesis_sub" >副</span> ベイズ統計学に基づくモーメントテンソル解の推定 ー秋田県森吉山周辺の群発地震への適用ー
 - <span class="thesis_sub" >副</span> 地震波形を用いた震源決定 ー数値実験と実際の地震への適用ー
 
-
 ## 2019年度
 
 ### 修士論文
@@ -85,7 +102,7 @@
 
 ### 卒業論文
 
-- <span class="thesis_main">主</span> Seismic Wave Gradiometry法に基づくRayleigh波位相速度空間分布の推定	
+- <span class="thesis_main">主</span> Seismic Wave Gradiometry法に基づくRayleigh波位相速度空間分布の推定
 - <span class="thesis_main">主</span> 東北地方太平洋沖地震前後における地震活動統計モデルETASパラメータの時空間変化
 - <span class="thesis_main">主</span> 津波のソリトン分裂と断層すべり分布が津波浸水に与える影響ー青森県東方沖想定地震に対する検討ー
 - <span class="thesis_main">主</span> 超稠密地震観測記録に基づく地震波への地形効果の検討
@@ -97,6 +114,7 @@
 - <span class="thesis_sub" >副</span> 2008年岩手・宮城内陸地震の余震中の低周波地震の時空間分布
 
 ## 2018年度
+
 ### 修士論文
 
 - <span class="thesis_sub" >副</span> 森吉山の群発地震における散乱波群とその波形形状の時間変化
@@ -108,7 +126,7 @@
 - <span class="thesis_main">主</span> 高次統計量を用いた地震波検知法の検討ー低周波地震への適用ー
 - <span class="thesis_main">主</span> 東北北部における微小地震観測網AS-netを用いた長周期地震波の再構築
 - <span class="thesis_main">主</span> 十勝沖地震における断層すべりのばらつきの津波来襲への影響
-- <span class="thesis_sub" >副</span> 秋田県森吉山周辺の応力降下量の時空間変化	
+- <span class="thesis_sub" >副</span> 秋田県森吉山周辺の応力降下量の時空間変化
 - <span class="thesis_sub" >副</span> FI値とスペクトログラムによる東北日本の深部低周波地震の周波数特性
 - <span class="thesis_sub" >副</span> 八甲田山周辺の低周波地震活動
 - <span class="thesis_sub" >副</span> 函館付近の低周波地震活動ー臨時地震観測とスペクトル解析ー
