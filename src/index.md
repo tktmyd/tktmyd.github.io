@@ -7,14 +7,14 @@ Professor, Graduate School of Science and Technology, Hirosaki University<br/>
 〒036-8561 青森県弘前市文京町3
 
 ---
+
 ## Research Interests | 研究対象
 
-I am studying wave propagation problems in seismology. I am particularly interested in: 
+I am studying wave propagation problems in seismology. I am particularly interested in:
 
 - Development of a new seismic/tsunami wave data analysis method for exploring the earthquake and the earth interior
 - Large-scale numerical wave propagation simulation
 - Real-time monitoring/forecasting of tsunami and seismic waves
-
 
 複雑媒質中における地震・津波波動伝播とその応用についての研究を行っています．特に以下の項目に興味を持っています：
 
@@ -26,7 +26,11 @@ I am studying wave propagation problems in seismology. I am particularly interes
 
 ## Recent news | 最近のできごと
 
-### 2024-11 
+### 2025-08
+
+- 研究室同僚の平野さん，学科同僚の道家さんとの[共著論文が出版](./pubs.md)されました．
+
+### 2024-11
 
 - 気象庁と弘前市による防災・気候講演会で[講演](./outreach.md)しました．
 
@@ -59,18 +63,16 @@ I am studying wave propagation problems in seismology. I am particularly interes
 - [地震学会一般公開セミナー](https://www.zisin.jp/event/openseminar2021.html)で講演ならびにパネルディスカッションを行いました．
 - 上記一般公開セミナーにあわせて，これまでの研究活動に関するインタビューが[宮城の新聞](http://shinbun.fan-miyagi.jp/article/article_20211007.php)に掲載されました．
 
-
 ### 2021-01
 
 - [弘前大学リレーシンポジウム](https://scs.hirosaki-u.ac.jp/relay/)第1回で講演を行いました．
 
 ### 2020-10
 
-- Maeda et al. (2017), A paper on the [OpenSWPC](https://github.com/tktmyd/OpenSWPC), has been awarded as a 2019 research paper award of the seismological society of Japan.   
+- Maeda et al. (2017), A paper on the [OpenSWPC](https://github.com/tktmyd/OpenSWPC), has been awarded as a 2019 research paper award of the seismological society of Japan.
 Maeda et al. (2017)の[OpenSWPC](https://github.com/tktmyd/OpenSWPC)の論文が，日本地震学会論文賞を受賞しました．(2020-10-29)
 
 ### 2020-09
-
 
 - [A new paper](https://doi.org/10.1186/s40623-020-01272-5) by Yoshida _et al._ has been published in _Earth, Planets and Space_. (2020-09-29)
 
