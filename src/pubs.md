@@ -526,6 +526,8 @@ _The Science Reports of the Tohoku University. Fifth Series, Tohoku Geophysical 
 
 ## Articles without review
 
+楠美紀公・前田拓人・平野史朗 (2026). 東北地方日本海東縁の地震におけるS波エンベロープ拡大現象, 東北地域災害科学研究, _62_, 31–36．  
+
 片山藍貴・__前田拓人__・髙野智也 (2023). 日本海東縁で発生する地震の周波数特性―規模を考慮したFrequency Index解析に基づく検討―, 東北地域災害科学研究, __60__, 13-17.
 [(Article Link)](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume60/60-4.pdf)
 
