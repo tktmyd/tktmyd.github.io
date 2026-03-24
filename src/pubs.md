@@ -76,7 +76,7 @@ Furumura, T., & __Maeda, T.__ (2021). High-resolution source imaging based on ti
 Onodera, K., Kawamura, T., Tanaka, S., Ishihara, Y., & __Maeda, T.__ (2021). Numerical simulation of Lunar seismic wave propagation: Investigation of subsurface scattering properties near Apollo 12 landing site. _Journal of Geophysical Research: Planets_, _126_(_3_). e2020JE006406. doi:[10.1029/2020je006406](https://doi.org/10.1029/2020je006406).
 
 [67]
-Shiina, T., __Maeda, T.__, Kano, M., Kato, A., & Hirata, N. (2021). An optimum 2D seismic-wavefield reconstruction in densely and nonuniformly distributed stations: The Metropolitan Seismic Observation Network in Japan. _Seismological Research Letters_. doi:[10.1785/0220200196](https://doi.org/10.1785/0220200196).
+Shiina, T., __Maeda, T.__, Kano, M., Kato, A., & Hirata, N. (2021). An optimum 2D seismic-wavefield reconstruction in densely and nonuniformly distributed stations: The Metropolitan Seismic Observation Network in Japan. _Seismological Research Letters_, _92_(3), 2015-2027, doi:[10.1785/0220200196](https://doi.org/10.1785/0220200196).
 
 [66]
 大石祐介・新出孝政・山崎崇史・牧野島文泰・馬場俊孝・__前田拓人__・近貞直孝・対馬弘晃・高川智博 (2020),
