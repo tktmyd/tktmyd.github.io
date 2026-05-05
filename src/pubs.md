@@ -15,6 +15,9 @@ Springer.
 
 ## Peer-Reviewed Articles
 
+[81] Wang, Y., Imai, K., & __Maeda, T.__ (2026).
+Tsunami warning cancellation based on data assimilation with a nonlinear propagation model: Application to the 2025 Mw 8.8 Kamchatka earthquake. _Ocean Modeling_, in press.
+
 [80] Hirano, S., Doke, R., & __Maeda, T.__ (2025).
 Supershear-subshear-supershear rupture sequence during the 2025 Mandalay Earthquake in Myanmar.
 _Seismica_, _4_(2). doi:[10.26443/seismica.v4i2.1785](https://doi.org/10.26443/seismica.v4i2.1785)

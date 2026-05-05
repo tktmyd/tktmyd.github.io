@@ -1,5 +1,11 @@
 # Presentations
 
+## 2026
+
+Osamu Sandanbata, Kenji Satake, Shunsuke Takemura, Shingo Watada, __Takuto Maeda__, and Tatsuya Kubota, Enigmatic tsunami waves due to repetitive volcanic processes near Sofu Seamount, Izu-Bonin Arc, EGU General Assembly 2026, EGU26-4776, Vienna, 2026-05-04.
+
+Masahiro Kosuga and __Takuto Maeda__, Spatio-temporal evolution in stress drop during earthquake sequences from the swarm to aftershocks in the Noto Peninsula, central Japan, EGU General Assembly 2026, EGU26-8786, Vienna, 2026-05-07.
+
 ## 2025
 
 楠美紀公・__前田拓人__・平野史朗, 東北地方日本海東縁の地震におけるS波エンベロープ拡大現象, 令和7年度東北地域災害研究集会, いわき, 2025-12-23.
