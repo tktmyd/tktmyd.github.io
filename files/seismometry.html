@@ -1,0 +1,547 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>機械式地震計のしくみ</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #18202a;
+      --muted: #5b6674;
+      --line: #c9d2dc;
+      --panel: #f7f9fb;
+      --ground: #59616b;
+      --accent: #b73b34;
+      --mass: #273447;
+      --blue: #2a6fbb;
+      --paper: #ffffff;
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Helvetica Neue", sans-serif;
+      color: var(--ink);
+      background: #eef2f5;
+    }
+
+    main {
+      width: min(1180px, 100%);
+      margin: 0 auto;
+      padding: 18px;
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) 330px;
+      gap: 16px;
+    }
+
+    .stage {
+      min-height: calc(100vh - 36px);
+      display: grid;
+      grid-template-rows: auto minmax(420px, 1fr);
+      gap: 12px;
+    }
+
+    header {
+      display: block;
+    }
+
+    h1 {
+      margin: 0;
+      font-size: clamp(1.35rem, 2.2vw, 2.1rem);
+      line-height: 1.2;
+      letter-spacing: 0;
+    }
+
+    .canvas-shell {
+      position: relative;
+      overflow: hidden;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--paper);
+      min-height: 420px;
+    }
+
+    canvas {
+      display: block;
+      width: 100%;
+      height: 100%;
+      min-height: 420px;
+    }
+
+    .controls {
+      min-height: calc(100vh - 36px);
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--paper);
+      padding: 14px;
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+    }
+
+    .control-group {
+      padding: 12px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--panel);
+    }
+
+    .control-head {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      gap: 10px;
+      margin-bottom: 9px;
+    }
+
+    label,
+    .control-title {
+      font-weight: 700;
+      font-size: 0.95rem;
+    }
+
+    output {
+      font-variant-numeric: tabular-nums;
+      color: var(--muted);
+      font-size: 0.9rem;
+    }
+
+    input[type="range"] {
+      width: 100%;
+      accent-color: var(--blue);
+    }
+
+    .hint {
+      margin: 8px 0 0;
+      color: var(--muted);
+      font-size: 0.86rem;
+      line-height: 1.55;
+    }
+
+    .buttons {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+    }
+
+    button {
+      min-height: 40px;
+      border: 1px solid #9da9b6;
+      border-radius: 8px;
+      background: #fff;
+      color: var(--ink);
+      font: inherit;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    button.primary {
+      background: var(--ink);
+      border-color: var(--ink);
+      color: white;
+    }
+
+    .copyright {
+      margin-top: auto;
+      color: var(--muted);
+      font-size: 0.78rem;
+      line-height: 1.4;
+      text-align: center;
+    }
+
+    @media (max-width: 900px) {
+      main {
+        grid-template-columns: 1fr;
+      }
+
+      .stage,
+      .controls {
+        min-height: auto;
+      }
+
+      header {
+        display: block;
+      }
+    }
+
+    @media (max-width: 560px) {
+      main {
+        padding: 10px;
+      }
+
+      .buttons {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+<body>
+  <main>
+    <section class="stage" aria-label="支点が左右に揺れる振り子のアニメーション">
+      <header>
+        <h1>機械式地震計のしくみ</h1>
+      </header>
+
+      <div class="canvas-shell">
+        <canvas id="scene" aria-label="地面、支柱、振り子、質点の運動"></canvas>
+      </div>
+    </section>
+
+    <aside class="controls" aria-label="操作パネル">
+      <div class="control-group">
+        <div class="control-head">
+          <label for="ratio">周波数比 f / f0</label>
+          <output id="ratioOutput" for="ratio">1.0</output>
+        </div>
+        <input id="ratio" type="range" min="0" max="7" step="1" value="3">
+        <p class="hint">振り子の自然周波数f0よりも高周波（f/f0&gt;1）では質点はほぼ同じ位置に残ります。一方，低周波（f/f0&lt;1）では地面の動きとほとんど連動してしまいます。</p>
+      </div>
+
+      <div class="control-group">
+        <div class="control-head">
+          <label for="damping">ダンピング係数 h</label>
+          <output id="dampingOutput" for="damping">0.707</output>
+        </div>
+        <input id="damping" type="range" min="0.050" max="1.500" step="0.001" value="0.707">
+        <p class="hint">減衰を表すダンピングが小さすぎるとf=f0付近で共振が発生してしまいます。</p>
+      </div>
+
+      <div class="buttons">
+        <button class="primary" id="pauseButton" type="button">一時停止</button>
+        <button id="resetButton" type="button">リセット</button>
+      </div>
+
+      <p class="copyright">© 2026 Takuto Maeda. All rights reserved.</p>
+
+    </aside>
+  </main>
+
+  <script>
+    const canvas = document.getElementById("scene");
+    const ctx = canvas.getContext("2d");
+
+    const controls = {
+      ratio: document.getElementById("ratio"),
+      damping: document.getElementById("damping")
+    };
+
+    const outputs = {
+      damping: document.getElementById("dampingOutput"),
+      ratio: document.getElementById("ratioOutput")
+    };
+
+    const pauseButton = document.getElementById("pauseButton");
+    const resetButton = document.getElementById("resetButton");
+    const ratioOptions = [0.1, 0.2, 0.5, 1, 2, 5, 10, 20];
+
+    const state = {
+      t: 0,
+      q: 0,
+      v: 0,
+      paused: false,
+      lastFrame: performance.now(),
+      trace: [],
+      lastRatioIndex: Number(document.getElementById("ratio").value)
+    };
+    const playbackSpeed = 0.5;
+
+    function settings() {
+      const natural = 2.0;
+      const frequencyRatio = ratioOptions[Number(controls.ratio.value)];
+      return {
+        ratio: frequencyRatio,
+        period: natural / frequencyRatio,
+        amplitude: 44,
+        natural,
+        damping: Number(controls.damping.value)
+      };
+    }
+
+    function syncLabels() {
+      const s = settings();
+      outputs.ratio.textContent = s.ratio.toFixed(1);
+      outputs.damping.textContent = s.damping.toFixed(3);
+    }
+
+    function resizeCanvas() {
+      const rect = canvas.getBoundingClientRect();
+      const dpr = window.devicePixelRatio || 1;
+      canvas.width = Math.max(1, Math.round(rect.width * dpr));
+      canvas.height = Math.max(1, Math.round(rect.height * dpr));
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+    }
+
+    function groundX(t, s) {
+      return s.amplitude * Math.sin((2 * Math.PI * t) / s.period);
+    }
+
+    function groundAcceleration(t, s) {
+      const omega = (2 * Math.PI) / s.period;
+      return -s.amplitude * omega * omega * Math.sin(omega * t);
+    }
+
+    function acceleration(t, q, v, s) {
+      const omega0 = (2 * Math.PI) / s.natural;
+      return -2 * s.damping * omega0 * v - omega0 * omega0 * q - groundAcceleration(t, s);
+    }
+
+    function rk4(dt, s) {
+      const t = state.t;
+      const q = state.q;
+      const v = state.v;
+
+      const a1 = acceleration(t, q, v, s);
+      const k1q = v;
+      const k1v = a1;
+
+      const a2 = acceleration(t + dt / 2, q + k1q * dt / 2, v + k1v * dt / 2, s);
+      const k2q = v + k1v * dt / 2;
+      const k2v = a2;
+
+      const a3 = acceleration(t + dt / 2, q + k2q * dt / 2, v + k2v * dt / 2, s);
+      const k3q = v + k2v * dt / 2;
+      const k3v = a3;
+
+      const a4 = acceleration(t + dt, q + k3q * dt, v + k3v * dt, s);
+      const k4q = v + k3v * dt;
+      const k4v = a4;
+
+      state.q += (dt / 6) * (k1q + 2 * k2q + 2 * k3q + k4q);
+      state.v += (dt / 6) * (k1v + 2 * k2v + 2 * k3v + k4v);
+      state.t += dt;
+    }
+
+    function recordTrace(s) {
+      const xg = groundX(state.t, s);
+      state.trace.push({ t: state.t, ground: xg, relative: state.q });
+      const traceDuration = 8;
+      while (state.trace.length && state.t - state.trace[0].t > traceDuration) {
+        state.trace.shift();
+      }
+    }
+
+    function stepSimulation(elapsed) {
+      const s = settings();
+      const maxStep = Math.min(1 / 240, s.period / 80, s.natural / 160);
+      const capped = Math.min(elapsed, 0.05);
+      let remaining = capped;
+      while (remaining > 0) {
+        const dt = Math.min(maxStep, remaining);
+        rk4(dt, s);
+        recordTrace(s);
+        remaining -= dt;
+      }
+    }
+
+    function line(x1, y1, x2, y2) {
+      ctx.beginPath();
+      ctx.moveTo(x1, y1);
+      ctx.lineTo(x2, y2);
+      ctx.stroke();
+    }
+
+    function drawTrace(area, key, color) {
+      if (state.trace.length < 2) return;
+      const latest = state.trace[state.trace.length - 1].t;
+      const duration = 8;
+      const scale = area.h * 0.48 / 120;
+      ctx.strokeStyle = color;
+      ctx.lineWidth = 2;
+      ctx.beginPath();
+      for (let i = 0; i < state.trace.length; i += 1) {
+        const p = state.trace[i];
+        const x = area.x + area.w * (1 - (latest - p.t) / duration);
+        const y = area.y + area.h / 2 - p[key] * scale;
+        if (i === 0) ctx.moveTo(x, y);
+        else ctx.lineTo(x, y);
+      }
+      ctx.stroke();
+    }
+
+    function drawTraceLegend(area, blue, red) {
+      const x = area.x + 14;
+      const y = area.y + area.h - 30;
+      const boxW = 270;
+      const boxH = 22;
+
+      ctx.fillStyle = "rgba(255, 255, 255, 0.84)";
+      ctx.fillRect(x - 8, y - 14, boxW, boxH);
+
+      ctx.font = "13px system-ui, sans-serif";
+      ctx.lineWidth = 3;
+      ctx.lineCap = "round";
+
+      ctx.strokeStyle = blue;
+      line(x, y, x + 22, y);
+      ctx.fillStyle = blue;
+      ctx.fillText("地面・支点の変位（真の地動）", x + 30, y + 5);
+
+      const secondX = x + 230;
+      ctx.strokeStyle = red;
+      line(secondX, y, secondX + 22, y);
+      ctx.fillStyle = red;
+      ctx.fillText("相対変位（地震計の記録）", secondX + 30, y + 5);
+      ctx.lineCap = "butt";
+    }
+
+    function drawGroundPattern(x, y, w, h) {
+      ctx.fillStyle = "#eef1f4";
+      ctx.fillRect(x, y, w, h);
+
+      ctx.fillStyle = "#d5dce3";
+      for (let dotX = x + 28; dotX < x + w; dotX += 48) {
+        const stagger = Math.floor((dotX - x) / 48) % 2 === 0 ? 0 : 14;
+        for (let dotY = y + 16 + stagger; dotY < y + h; dotY += 56) {
+          ctx.beginPath();
+          ctx.arc(dotX, dotY, 3, 0, Math.PI * 2);
+          ctx.fill();
+        }
+      }
+    }
+
+    function drawSupport(x, y, columnW, columnH, beamW, beamH) {
+      const right = x + beamW;
+      const bottom = y + columnH;
+      ctx.fillStyle = getComputedStyle(document.documentElement).getPropertyValue("--ground").trim();
+      ctx.strokeStyle = "#333a43";
+      ctx.lineWidth = 3;
+      ctx.beginPath();
+      ctx.moveTo(x, y);
+      ctx.lineTo(right, y);
+      ctx.lineTo(right, y + beamH);
+      ctx.lineTo(x + columnW, y + beamH);
+      ctx.lineTo(x + columnW, bottom);
+      ctx.lineTo(x, bottom);
+      ctx.closePath();
+      ctx.fill();
+      ctx.stroke();
+    }
+
+    function drawScene() {
+      const width = canvas.clientWidth;
+      const height = canvas.clientHeight;
+      const s = settings();
+      const xg = groundX(state.t, s);
+      const centerX = width * 0.48;
+      const groundY = height * 0.88;
+      const pivotY = Math.max(86, height * 0.19);
+      const armY = pivotY;
+      const supportTopY = pivotY;
+      const supportW = 34;
+      const beamH = 30;
+      const beamW = Math.min(340, width * 0.46);
+      const supportX = centerX - beamW * 0.55;
+      const pivotX = centerX + xg;
+      const pivotAttachmentY = armY + beamH - 1;
+      const desiredLength = Math.min(500, Math.max(315, height * 0.66));
+      const pendulumLength = Math.max(260, Math.min(desiredLength, groundY - pivotAttachmentY - 42));
+      const bobX = pivotX + state.q;
+      const bobY = pivotAttachmentY + Math.sqrt(Math.max(80 * 80, pendulumLength * pendulumLength - state.q * state.q));
+
+      ctx.clearRect(0, 0, width, height);
+
+      ctx.save();
+      ctx.translate(xg, 0);
+      drawGroundPattern(-width, groundY, width * 3, height - groundY + 40);
+      ctx.strokeStyle = getComputedStyle(document.documentElement).getPropertyValue("--ground").trim();
+      ctx.lineWidth = 3;
+      line(-width, groundY, width * 2, groundY);
+      drawSupport(supportX, supportTopY, supportW, groundY - supportTopY, beamW, beamH);
+      ctx.restore();
+
+      ctx.strokeStyle = "#c7d0da";
+      ctx.lineWidth = 1.5;
+      line(centerX, pivotAttachmentY, centerX, groundY);
+
+      ctx.strokeStyle = "#20252d";
+      ctx.lineWidth = 4;
+      line(pivotX, pivotAttachmentY, bobX, bobY);
+      ctx.fillStyle = "#20252d";
+      ctx.beginPath();
+      ctx.arc(pivotX, pivotAttachmentY, 4, 0, Math.PI * 2);
+      ctx.fill();
+
+      ctx.fillStyle = getComputedStyle(document.documentElement).getPropertyValue("--mass").trim();
+      ctx.strokeStyle = "#111820";
+      ctx.lineWidth = 3;
+      ctx.beginPath();
+      ctx.arc(bobX, bobY, 28, 0, Math.PI * 2);
+      ctx.fill();
+      ctx.stroke();
+
+      const traceArea = {
+        x: Math.max(22, width * 0.06),
+        y: 22,
+        w: Math.min(width - Math.max(44, width * 0.12), width * 0.88),
+        h: 134
+      };
+      ctx.fillStyle = "rgba(255, 255, 255, 0.78)";
+      ctx.strokeStyle = "rgba(201, 210, 220, 0.9)";
+      ctx.lineWidth = 1;
+      ctx.fillRect(traceArea.x, traceArea.y, traceArea.w, traceArea.h);
+      ctx.strokeRect(traceArea.x, traceArea.y, traceArea.w, traceArea.h);
+      ctx.strokeStyle = "#d3dbe4";
+      line(traceArea.x, traceArea.y + traceArea.h / 2, traceArea.x + traceArea.w, traceArea.y + traceArea.h / 2);
+      const blue = getComputedStyle(document.documentElement).getPropertyValue("--blue").trim();
+      const red = getComputedStyle(document.documentElement).getPropertyValue("--accent").trim();
+      drawTrace(traceArea, "ground", blue);
+      drawTrace(traceArea, "relative", red);
+      drawTraceLegend(traceArea, blue, red);
+      ctx.fillStyle = "#5b6674";
+      ctx.font = "13px system-ui, sans-serif";
+      ctx.fillText("変位の履歴", traceArea.x + 10, traceArea.y + 20);
+    }
+
+    function reset() {
+      state.t = 0;
+      state.q = 0;
+      state.v = 0;
+      state.trace = [];
+      state.lastFrame = performance.now();
+      drawScene();
+    }
+
+    function frame(now) {
+      const elapsed = (now - state.lastFrame) / 1000;
+      state.lastFrame = now;
+      if (!state.paused) {
+        stepSimulation(elapsed * playbackSpeed);
+      }
+      drawScene();
+      requestAnimationFrame(frame);
+    }
+
+    Object.values(controls).forEach((control) => {
+      control.addEventListener("input", () => {
+        syncLabels();
+        if (control === controls.ratio && Number(control.value) !== state.lastRatioIndex) {
+          state.lastRatioIndex = Number(control.value);
+          reset();
+        }
+      });
+    });
+
+    pauseButton.addEventListener("click", () => {
+      state.paused = !state.paused;
+      pauseButton.textContent = state.paused ? "再開" : "一時停止";
+      state.lastFrame = performance.now();
+    });
+
+    resetButton.addEventListener("click", reset);
+    window.addEventListener("resize", () => {
+      resizeCanvas();
+      drawScene();
+    });
+
+    syncLabels();
+    resizeCanvas();
+    reset();
+    requestAnimationFrame(frame);
+  </script>
+</body>
+</html>
