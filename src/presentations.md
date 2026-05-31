@@ -2,6 +2,23 @@
 
 ## 2026
 
+Yuchen Wang, Kentaro Imai, and __Takuto Maeda__, Tsunami Data Assimilation with a Nonlinear Propagation Model: Application to the 2025 Mw 8.8 Kamchatka Earthquake, JpGU-AGU Joint Meeting 2026, HCG17-02, Makuhari, 2026-05-29. 
+
+__Takuto Maeda__, Tsunami initial conditions from elastic wave modeling: A theoretical link to the Kajiura filter, 
+JpGU-AGU Joint Meeting 2026, HCG17-P06, Makuhari, 2026-05-29. 
+
+Masahiro Kosuga and __Takuto Maeda__, Stress drops for two major earthquake sequences with significant seismic activity preceding the mainshock: The 2016 Kumamoto and 2024 Noto Peninsula earthquakes, JpGU-AGU Joint Meeting 2026, SSS0-05, Makuhari, 2026-05-27. 
+
+Yuta Matsuno, Yuichi Kitagawa, Norio Matsumoto, Suguru Yabe, Kazuhiro Kimura, __Takuto Maeda__, and Shiro Hirano, Application of a Tank Model for Rainfall Correction in Multi-Component Strainmeter Records, JpGU-AGU Joint Meeting 2026, SCG52-P02, Makuhari, 2026-05-27. 
+
+Koki Saito, Shiro Hirano, and __Takuto Maeda__, Wide-area characteristics of high-frequency waveform correlations using multiple repeating earthquake groups, JpGU-AGU Joint Meeting 2026, SSS04-P03, Makuhari, 2026-05-26. 
+
+Nana Yoshimitsu, and __Takuto Maeda__, Seismic Velocity Fluctuations in the Beppu Geothermal Region Since the 2016, JpGU-AGU Joint Meeting 2026, SCG58-01, Makuhari, 2026-05-26. 
+
+Naoto Hoteiya, __Takuto Maeda__, and Shiro Hirano, Excitation of High-Frequency Seismic Noise Associated with Rainfall: A Case Study of Typhoon No. 15 (Peipah), 2025, JpGU-AGU Joint Meeting 2026, SSS11-P05, Makuhari, 2026-05-25. 
+
+Jin Sakamoto, Shiro Hirano, and __Takuto Maeda__, Assessment of the BPT distribution against recurrence-interval distribution derived from a stochastic process incorporating the Gutenberg-Richter law, JpGU-AGU Joint Meeting 2026, SSS12-P11, Makuhari, 2026-05-25. 
+
 Osamu Sandanbata, Kenji Satake, Shunsuke Takemura, Shingo Watada, __Takuto Maeda__, and Tatsuya Kubota, Enigmatic tsunami waves due to repetitive volcanic processes near Sofu Seamount, Izu-Bonin Arc, EGU General Assembly 2026, EGU26-4776, Vienna, 2026-05-04.
 
 Masahiro Kosuga and __Takuto Maeda__, Spatio-temporal evolution in stress drop during earthquake sequences from the swarm to aftershocks in the Noto Peninsula, central Japan, EGU General Assembly 2026, EGU26-8786, Vienna, 2026-05-07.

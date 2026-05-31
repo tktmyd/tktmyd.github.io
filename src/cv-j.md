@@ -21,22 +21,23 @@
 
 ## 学位論文
 
-* 修士論文 『長周期レイリー波コーダの起源 －高次モードの寄与－』東北大学大学院修士論文（指導教員：佐藤春夫）2003年 
+* 修士論文 『長周期レイリー波コーダの起源 －高次モードの寄与－』東北大学大学院修士論文（指導教員：佐藤春夫）2003年
 * 博士論文 『半無限不均質弾性媒質における地震波エンベロープ形成の理論的研究』東北大学大学院博士論文 2006年
 
 ## 職歴
 
 * 2003/4 ― 2006/3 &nbsp;&nbsp; 学術振興会特別研究員（DC1）
 * 2006/4 ― 2009/3 &nbsp;&nbsp; 独立行政法人防災科学技術研究所 契約研究員（研究員型）
-* 2009/4 ― 2011/3 &nbsp;&nbsp; 東京大学大学院情報学環 特任研究員 
-* 2011/4 ― 2012/3 &nbsp;&nbsp; 東京大学大学院情報学環 特任助教 
-* 2012/4 ― 2018/3 &nbsp;&nbsp; 東京大学地震研究所 助教 
-* 2018/4 ― 2021/7 &nbsp;&nbsp; 弘前大学大学院理工学研究科 准教授 
-* 2021/8 ― 　　　 &nbsp;&nbsp; 弘前大学大学院理工学研究科 教授 
+* 2009/4 ― 2011/3 &nbsp;&nbsp; 東京大学大学院情報学環 特任研究員
+* 2011/4 ― 2012/3 &nbsp;&nbsp; 東京大学大学院情報学環 特任助教
+* 2012/4 ― 2018/3 &nbsp;&nbsp; 東京大学地震研究所 助教
+* 2018/4 ― 2021/7 &nbsp;&nbsp; 弘前大学大学院理工学研究科 准教授
+* 2021/8 ― 　　　 &nbsp;&nbsp; 弘前大学大学院理工学研究科 教授
 * 2023/4 ― 　　　 &nbsp;&nbsp; （兼）弘前大学大学院理工学研究科附属地震火山観測所 所長
 <!---
 * 2018/6 ― 2019/3 &nbsp;&nbsp; 京都大学防災研究所 非常勤講師
 * 2019/9 ― 2019/9 &nbsp;&nbsp; 神戸大学大学院理学研究科 非常勤講師
+* 2025/9 - 2025/9 &nbsp;&nbsp; 北海道大学理学院 非常勤講師
 --->
 
 ## 所属学会
@@ -64,36 +65,40 @@
 ### 代表者
 
 * 特別研究員奨励費  [#03J07346](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-03J07346/) (2003--2005年度)
-* 科研費補助金（若手B）[#23740333](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23740333/) (2011--2013年度) 
+* 科研費補助金（若手B）[#23740333](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23740333/) (2011--2013年度)
 * 科研費補助金（若手B）[#15K16306](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-15K16306/) (2015--2017年度)
 * 科研費補助金（基盤C）[#19K04006](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19K04006) (2019--2023年度)
-* 科研費補助金（基盤C）[#24K07183](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K07183) (2024--2027年度予定)
+* 科研費補助金（基盤C）[#24K07183](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K07183) (2024--2027年度 予定)
 
 ### 分担研究者
 
 * 科研費補助金（基盤A）[#23244091](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-23244091/) (2011--2013年度 ※部分参加）
-* 科研費補助金（基盤B）[#16H03146](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-16H03146/) (2016--2019年度) 
+* 科研費補助金（基盤B）[#16H03146](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-16H03146/) (2016--2019年度)
 * 科研費補助金（基盤B）[#19H02409](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-19H02409/) (2019--2022年度)
 * 科研費補助金（基盤B）[#20H02409](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-20H02409/) (2020--2023年度)
-* 科研費補助金（基盤B）[#22H01304](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H01304/)（2022--2025年度 予定）
+* 科研費補助金（基盤B）[#22H01304](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H01304/)（2022--2026年度 予定）
+* 科研費補助金（基盤C）[#24K07164](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K07164/) (2024--2026年度 予定)
 
 ## その他学会等における活動
 
 * Editorial board member, _Progress in Earth and Planetary Sciences_ (Apr. 2019 - )
-* Editorial board member, _Earth, Planets and Space_ (Jan. 2015 - Dec. 2018 ) 
-* Local organizing committee member, The summer school on Earthquake Science "Diversity of Earthquakes", 23-27 Sep. 2013, Hakone, Japan. 
+* Editorial board member, _Earth, Planets and Space_ (Jan. 2015 - Dec. 2018 )
+* Local organizing committee member, The summer school on Earthquake Science "Diversity of Earthquakes", 23-27 Sep. 2013, Hakone, Japan.
 * 2014年地震学会秋季大会LOC実行委員, 2014/11/24-26, 新潟
 * Local organizing committee member, Joint Scientific Assembly of the International Association of Geodesy and the International Association of Seismology and Physics of the Earth's Interior (IAG-IASPEI 2017), July 20 - August 4, 2017, Kobe, Japan.
 
 ## 委員等
 
+* 日本地震学会 役員代議員（会計担当理事） (May 2026 - )
+* 日本地震学会 行動計画2025タスクフォース（May 2026 - ）
+* 日本地震学会 財務委員会 委員長（May 2026 - ）
 * 地震調査研究推進本部政策委員会調査観測計画部会 海域観測に関する検討ワーキンググループ 専門委員 (Nov. 2016 - )
-* 地震予知研究総合研究振興会 下北半島周辺における地震活動等調査検討委員会 委員 (Aug. 2019 - )
-* 日本地震学会 通常代議員 (Apr. 2014 - )
-* 日本地球惑星科学連合 固体地球科学セクション代議員（May 2018 - Apr. 2020)
-* 日本地震学会 学生優秀発表賞選考委員会委員（Oct. 2015 - Mar. 2016）
-* 日本地震学会 選挙管理委員会委員 (Oct. 2015 - Mar. 2016)
-* 日本地震学会 広報委員会委員 (Apr. 2013 - Mar. 2016)
-* 日本地震学会 欧文誌運営委員会委員 (Apr. 2016 - Mar. 2017)
+* 日本地震学会 通常代議員 (Apr. 2014 - Mar. 2026)
+* 地震予知研究総合研究振興会 下北半島周辺における地震活動等調査検討委員会 委員 (Aug. 2019 - Mar. 2026)
 * 日本地震学会 表彰委員会 委員（Apr. 2020 - Mar. 2021; Apr. 2024 - Mar. 2025）
 * 日本地震学会 表彰委員会 委員長（Apr. 2022 - Mar. 2024）
+* 日本地球惑星科学連合 固体地球科学セクション代議員（May 2018 - Apr. 2020)
+* 日本地震学会 欧文誌運営委員会委員 (Apr. 2016 - Mar. 2017)
+* 日本地震学会 広報委員会委員 (Apr. 2013 - Mar. 2016)
+* 日本地震学会 選挙管理委員会委員 (Oct. 2015 - Mar. 2016)
+* 日本地震学会 学生優秀発表賞選考委員会委員（Oct. 2015 - Mar. 2016）

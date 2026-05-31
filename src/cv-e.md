@@ -22,17 +22,17 @@
 ## Thesis
 
 * 修士論文 『長周期レイリー波コーダの起源 －高次モードの寄与－』東北大学大学院修士論文（指導教員：佐藤春夫）2003年
-    * (Master thesis in Tohoku university (supervisor: Prof. Haruo Sato), 2003 (in Japanese)) 
+  * (Master thesis in Tohoku university (supervisor: Prof. Haruo Sato), 2003 (in Japanese))
 * 博士論文 『半無限不均質弾性媒質における地震波エンベロープ形成の理論的研究』東北大学大学院博士論文 2006年
-    * (Ph.D thesis in Tohoku university, 2006 (in Japanese))
+  * (Ph.D thesis in Tohoku university, 2006 (in Japanese))
 
 Although these thesis have been written in Japanese, they are both published in peer-reviewed jounals in English. Please see paper Maeda et al. (2003, 2006) for Master thesis and Maeda et al. (2008) for the Ph.D thesis.
 
 ## Professional experience
 
-* Apr. 2003 -- Mar. 2006  JSPS Research Fellow (DC1)
-* Apr. 2006 -- Mar. 2009    Research Fellow, NIED
-* Apr. 2009 -- Mar. 2011  Project Researcher, CIDIR/III, The University of Tokyo
+* Apr. 2003 -- Mar. 2006 JSPS Research Fellow (DC1)
+* Apr. 2006 -- Mar. 2009 Research Fellow, NIED
+* Apr. 2009 -- Mar. 2011 Project Researcher, CIDIR/III, The University of Tokyo
 * Apr. 2011 -- Mar. 2012 Project Research Associate, CIDIR/III, The University of Tokyo
 * Apr. 2012 -- Mar. 2018 Assistant Professor, ERI, The University of Tokyo
 * Apr. 2018 -- Jul. 2021 Associate Professor, Graduate School of Science and Technology, Hirosaki University
@@ -48,36 +48,38 @@ Although these thesis have been written in Japanese, they are both published in 
 
 ## Honors and Awards
 
-* 2011 Research Paper Award of the Seismological Society of Japan (for Maeda et al., 2010; 2012-05-22)
-* 2012 Young Academic Award of the Seismological Society of Japan (2013-05-21)
+* 2011 Best Paper Award of the Seismological Society of Japan (for Maeda et al., 2010; 2012-05-22)
+* 2012 Young Scientist Award of the Seismological Society of Japan (2013-05-21)
 * The Young Scientists' Prize, The Commendation for Science and Technology by Minister of Education, Culture, Sports, Science and Technology  (2014-04-15)
 * 2013 EPS Award (for Maeda et al., 2011a; 2014-05-02)
 * 2015 Morita Memorial Award, Tohoku University (2015-10-30)
-* 2019 Research Paper Award of the Seismological Society of Japan (for Maeda et al., 2010; 2020-10-29)
+* 2019 Best Paper Award of the Seismological Society of Japan (for Maeda et al., 2010; 2020-10-29)
 * 2022 Research Paper Award of the Japan Society of Engineering Geology (for Doi et al., 2020; 2022-06-17)
 * The 2022 EPS Excellent Paper Award ([Maeda et al., 2017](https://doi.org/10.1186/s40623-017-0687-2)) [EPS](https://earth-planets-space.springeropen.com/eps-excellent-paper-award)
-
 
 ## Grants
 
 ### As the PI
 
 * Grant-in-Aid for JSPS Fellows  [#03J07346](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-03J07346/) (2003--2005FY)
-* Grant-in-Aid for Young Scientists (B) [#23740333](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23740333/) (2011--2013FY) 
+* Grant-in-Aid for Young Scientists (B) [#23740333](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23740333/) (2011--2013FY)
 * Grant-in-Aid for Young Scientists (B) [#15K16306](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-15K16306/) (2015--2018FY)
-* Grant-in-Aid for Scientific Research (C) [#19K04006](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K04006) (2019--2021FY Expected)
+* Grant-in-Aid for Scientific Research (C) [#19K04006](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19K04006) (2019--2023FY)
+* Grant-in-Aid for Scientific Research (C) [#24K07183](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K07183) (2024--2027FY Expected)
 
 ### As a collaborator
 
-* Grant-in-Aid for Scientific Research (B) [#20H02409](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H02409/) (2020--2023FY Expected)
-* Grant-in-Aid for Scientific Research (B) [#19H02409](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19H02409/) (2019--2022FY Expected)
-* Grant-in-Aid for Scientific Research (B) [#16H03146](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H03146/) (2016--2019FY) 
 * Grant-in-Aid for Scientific Research (A) [#23244091](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-23244091/) (2011--2013FY; partly participated)
+* Grant-in-Aid for Scientific Research (B) [#16H03146](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-16H03146/) (2016--2019FY)
+* Grant-in-Aid for Scientific Research (B) [#19H02409](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-19H02409/) (2019--2022FY Expected)
+* Grant-in-Aid for Scientific Research (B) [#20H02409](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-20H02409/) (2020--2023FY Expected)
+* Grant-in-Aid for Scientific Research (B) [#22H01304](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-22H01304/) (2022--2026FY Expected)
+* Grant-in-Aid for Scientific Research (C) [#24K07164](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-24K07164/) (2024--2026FY Expected)
 
 ## Other Resaerch-Related Activities
 
 * Editorial board member, _Progress in Earth and Planetary Sciences_ (Apr. 2019--)
-* Editorial board member, _Earth, Planets and Space_ (Jan. 2015--Dec. 2018 ) 
-* Local organizing committee member, The summer school on Earthquake Science "Diversity of Earthquakes", 23-27 Sep. 2013, Hakone, Japan. 
+* Editorial board member, _Earth, Planets and Space_ (Jan. 2015--Dec. 2018 )
+* Local organizing committee member, The summer school on Earthquake Science "Diversity of Earthquakes", 23-27 Sep. 2013, Hakone, Japan.
 Local organizing committee member, 2014 Seismological Society of Japan Fall Meeting, 24-26 Nov. 2014, Niigata, Japan.
-* Local organizing committee member, Joint Scientific Assembly of the International Association of Geodesy and the International Association of Seismology and Physics of the Earth's Interior (IAG-IASPEI 2017), July 20--August 4, 2017, Kobe, Japan. 
+* Local organizing committee member, Joint Scientific Assembly of the International Association of Geodesy and the International Association of Seismology and Physics of the Earth's Interior (IAG-IASPEI 2017), July 20--August 4, 2017, Kobe, Japan.
