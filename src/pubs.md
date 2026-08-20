@@ -16,7 +16,7 @@ Springer.
 ## Peer-Reviewed Articles
 
 [81] Wang, Y., Imai, K., & __Maeda, T.__ (2026).
-Tsunami warning cancellation based on data assimilation with a nonlinear propagation model: Application to the 2025 Mw 8.8 Kamchatka earthquake. _Ocean Modeling_, in press.
+Tsunami warning cancellation based on data assimilation with a nonlinear propagation model: Application to the 2025 Mw 8.8 Kamchatka earthquake. _Ocean Modeling_, _202_, 102747. doi:[10.1016/j.ocemod.2026.102747](https://doi.org/10.1016/j.ocemod.2026.102747)
 
 [80] Hirano, S., Doke, R., & __Maeda, T.__ (2025).
 Supershear-subshear-supershear rupture sequence during the 2025 Mandalay Earthquake in Myanmar.
@@ -529,9 +529,13 @@ _The Science Reports of the Tohoku University. Fifth Series, Tohoku Geophysical 
 
 ## Articles without review
 
-楠美紀公・前田拓人・平野史朗 (2026). 東北地方日本海東縁の地震におけるS波エンベロープ拡大現象, 東北地域災害科学研究, _62_, 31–36．  
+岡田知己・藤村遼太郎・内田晴海・木村洲徳・髙木涼太・Martha SAVAGE・田上綾香・前田純伶・前田拓人・野口科子・阿部信太郎 (2026). 青森県陸奥湾下の地震のS波スプリッティング解析, 東北地域災害科学研究, _62_, 7-12.  
+[(Article Link)](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume62/62-2.pdf)
 
-片山藍貴・__前田拓人__・髙野智也 (2023). 日本海東縁で発生する地震の周波数特性―規模を考慮したFrequency Index解析に基づく検討―, 東北地域災害科学研究, __60__, 13-17.
+楠美紀公・前田拓人・平野史朗 (2026). 東北地方日本海東縁の地震におけるS波エンベロープ拡大現象, 東北地域災害科学研究, _62_, 31–36．  
+[(Article Link)](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume62/62-6.pdf)
+
+片山藍貴・__前田拓人__・髙野智也 (2024). 日本海東縁で発生する地震の周波数特性―規模を考慮したFrequency Index解析に基づく検討―, 東北地域災害科学研究, __60__, 13-17.
 [(Article Link)](http://nds-tohoku.in.arena.ne.jp/ndsjournal/volume60/60-4.pdf)
 
 渡部大地・__前田拓人__・髙野智也 (2023). 2011年東北地方太平洋沖地震による地震の誘発現象の力学的検討, 東北地域災害科学研究, __59__, 1-6．
