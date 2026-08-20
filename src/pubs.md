@@ -30,6 +30,8 @@ Tsunami warning cancellation based on data assimilation with a nonlinear propaga
 [80] Hirano, S., Doke, R., & __Maeda, T.__ (2025).
 Supershear-subshear-supershear rupture sequence during the 2025 Mandalay Earthquake in Myanmar.
 _Seismica_, _4_(2). doi:[10.26443/seismica.v4i2.1785](https://doi.org/10.26443/seismica.v4i2.1785)
+[__(日本語プレスリリース)__](https://www.hirosaki-u.ac.jp/topics/105778/)
+
 
 [79] Yamazaki, Y., Narita, A., Umeda, K., Sumino, H., __Maeda, T.__, & Amano, T. (2025).
 Relationship between helium isotopes and focal depths of low-frequency earthquake, Northeastern Japan.
