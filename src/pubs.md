@@ -2,16 +2,25 @@
 
 ## Books
 
+前田 拓人・武村 俊介・古村 孝志 (2026). 
+地震波動伝播の数値シミュレーション：差分法の基礎からOpenSWPCによる実践まで, 
+東京大学出版会．   
+（[__書籍サポートサイト__](https://swp-fdm-book.github.io) | [__出版社__](https://www.utp.or.jp/book/b10171083.html)）
+
+
 Sato, H., Fehler, M. C., & __Maeda, T.__ (2012).
 Seismic wave propagation and scattering in the heterogeneous earth, second edition,
-Springer.
+Springer.   
 [__(Publisher)__](https://www.springer.com/gp/book/9783642230288)
 
+
+<!---
 ## Online Material (in Japanese)
 
 [PyGMT-HOWTO](https://tktmyd.github.io/pygmt-howto-jp/pygmt.html)
 
 [地震学入門](./files/introseism.pdf)
+--->
 
 ## Peer-Reviewed Articles
 
@@ -24,7 +33,7 @@ _Seismica_, _4_(2). doi:[10.26443/seismica.v4i2.1785](https://doi.org/10.26443/s
 
 [79] Yamazaki, Y., Narita, A., Umeda, K., Sumino, H., __Maeda, T.__, & Amano, T. (2025).
 Relationship between helium isotopes and focal depths of low-frequency earthquake, Northeastern Japan.
-_Geoscience Letters_, _12_(1), 22. doi:[10.1186/s40562-025-00394-6](https://doi.org/10.1186/s40562-025-00394-6)
+_Geoscience Letters_, _12_(1), 22. doi:[10.1186/s40562-025-00394-6](https://doi.org/10.1186/s40562-025-00394-6)  
 [__(日本語プレスリリース)__](https://www.hirosaki-u.ac.jp/topics/103402/)
 
 [78]
@@ -90,8 +99,8 @@ doi:[10.2208/kaigan.76.2_I_259](https://doi.org/10.2208/kaigan.76.2_I_259)
 <span class="award">AWARDED</span>
 土井一生・__前田拓人__・釜井俊孝・王功輝 (2020),
 地震波形記録による斜面崩壊の発生場所と発生形態の推定－2017年九州北部豪雨災害・日田市小野地区の斜面崩壊を例として－, 応用地質, _61_(_5_), 245-254,
-doi:[10.5110/jjseg.61.245](https://doi.org/10.5110/jjseg.61.245)
-[__日本応用地質学会令和4年（2022）論文賞__](https://www.jseg.or.jp/02-committee/selection-papers.html)
+doi:[10.5110/jjseg.61.245](https://doi.org/10.5110/jjseg.61.245)   
+（[__日本応用地質学会令和4年（2022）論文賞__](https://www.jseg.or.jp/02-committee/selection-papers.html)）
 
 [64]
 Yoshida, S., __Maeda, T.__, & Kato, N. (2020). Earthquake triggering model based on normal-stress-dependent Nagata law: application to the 2016 Mie offshore earthquake. _Earth, Planets and Space_, _72_(1), 141. doi:[10.1186/s40623-020-01272-5](https://doi.org/10.1186/s40623-020-01272-5).
