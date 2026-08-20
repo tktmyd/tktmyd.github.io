@@ -88,8 +88,8 @@ nav:
       - English: cv-e.md
       - 日本語版: cv-j.md
   - Research: 
-      - Publications | 論文 : pubs.md
-      - Presentations | 研究発表 : presentations.md
+      - Publications | 論文・書籍 : pubs.md
+      - Presentations | 学会発表 : presentations.md
       - Open Codes | ソフトウェア: opencodes.md
   - Education:
       - Lectures | 講義: lectures.md
