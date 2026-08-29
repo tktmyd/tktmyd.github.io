@@ -2,7 +2,7 @@
 
 ## Books
 
-前田 拓人・武村 俊介・古村 孝志 (2026). 
+__前田 拓人__・武村 俊介・古村 孝志 (2026). 
 地震波動伝播の数値シミュレーション：差分法の基礎からOpenSWPCによる実践まで, 
 東京大学出版会．   
 （[__書籍サポートサイト__](https://swp-fdm-book.github.io) | [__出版社__](https://www.utp.or.jp/book/b10171083.html)）
@@ -13,14 +13,6 @@ Seismic wave propagation and scattering in the heterogeneous earth, second editi
 Springer.   
 [__(Publisher)__](https://www.springer.com/gp/book/9783642230288)
 
-
-<!---
-## Online Material (in Japanese)
-
-[PyGMT-HOWTO](https://tktmyd.github.io/pygmt-howto-jp/pygmt.html)
-
-[地震学入門](./files/introseism.pdf)
---->
 
 ## Peer-Reviewed Articles
 
